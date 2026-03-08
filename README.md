@@ -60,6 +60,7 @@ This project currently includes:
 - **1** layered integration blueprint
 - **1** concrete app architecture
 - **1** machine-readable registry for downstream use
+- **1** separate meta resources / ecosystem collections section
 
 ### Domain Coverage
 
@@ -79,7 +80,7 @@ This project currently includes:
 
 | Artifact | What It Gives You |
 | :--- | :--- |
-| [results.md](/Users/xingzhong/Documents/Anything-can-be-an-agent/results.md) | The full curated catalog with roles and integration hints |
+| [results.md](/Users/xingzhong/Documents/Anything-can-be-an-agent/results.md) | The full curated catalog with roles, integration hints, and a separate meta resources section |
 | [results.json](/Users/xingzhong/Documents/Anything-can-be-an-agent/results.json) | A structured registry you can reuse for tooling, routing, filtering, or app generation |
 | [integration_blueprint.md](/Users/xingzhong/Documents/Anything-can-be-an-agent/integration_blueprint.md) | A layered view of how the ecosystem fits together as one platform |
 | [specific_app_architecture.md](/Users/xingzhong/Documents/Anything-can-be-an-agent/specific_app_architecture.md) | One concrete product architecture: a Hybrid Agent Workspace |
@@ -133,6 +134,11 @@ These are representative projects from the catalog that are especially useful as
 - [agentic-digital-warehouse](https://github.com/Hanan-Nahas/agentic-digital-warehouse)
 - [MedicalGraphRAG](https://github.com/OpenGraphRAG/MedicalGraphRAG)
 - [BitQuant](https://github.com/OpenGradient/BitQuant)
+
+### Meta Resources and Ecosystem Collections
+
+- [everything-claude-code](https://github.com/affaan-m/everything-claude-code)
+
 
 ## What Makes This Different
 

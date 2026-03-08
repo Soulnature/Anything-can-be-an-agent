@@ -2062,5 +2062,22 @@
     "created_at": "2025-06-30T22:11:07Z",
     "pushed_at": "2025-06-24T22:22:53Z",
     "language": null
+  },
+  {
+    "domain": "Meta Resources / Ecosystem Collections",
+    "project_name": "everything-claude-code",
+    "repo": "affaan-m/everything-claude-code",
+    "role": "Ecosystem Collection / Meta Resource",
+    "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "integration_surfaces": [
+      "Reference",
+      "MCP"
+    ],
+    "suggested_app_role": "Use as an ecosystem reference, workflow bundle, and operator playbook rather than as the primary runtime layer.",
+    "url": "https://github.com/affaan-m/everything-claude-code",
+    "stars": 67163,
+    "created_at": "2026-01-18T00:51:51Z",
+    "pushed_at": "2026-03-08T15:40:49Z",
+    "language": "JavaScript"
   }
 ]

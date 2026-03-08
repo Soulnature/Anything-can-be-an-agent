@@ -3,11 +3,12 @@
 This expanded catalog is designed for both evaluation and downstream integration. Compared with the previous version, it adds astronomy, physics, and industrial manufacturing / robotics coverage, and annotates each project with role and integration guidance.
 
 ## Summary
-- Total repositories collected: **128**
+- Main agent repositories collected: **128**
 - Date rule: repositories were included if they were created on or after `2025-01-01`, or showed meaningful activity on or after `2025-01-01`; this catalog uses recent GitHub activity as the hard filter.
 - Output shape: human-readable `results.md` plus integration-ready `results.json`.
 - Filtering: public GitHub repositories only, deduplicated by `owner/repo`, excluding archived, forked, or obviously non-agent repositories, and favoring projects with runnable workflows or concrete domain value.
 - Domain breakdown:
+- Meta resources / ecosystem collections: **1**
   - Bioinformatics, Deep Learning & Healthcare: **18**
   - Autonomous Coding & Software Engineering: **18**
   - Scientific Research & Data Analysis: **18**
@@ -33,7 +34,7 @@ This expanded catalog is designed for both evaluation and downstream integration
 | Industrial Use Cases | [sample-agentic-ai-robot](https://github.com/aws-samples/sample-agentic-ai-robot), [agentic-digital-warehouse](https://github.com/Hanan-Nahas/agentic-digital-warehouse), [multiagent-digital-twin-langgraph-mcp-a2a](https://github.com/xupeiwust/multiagent-digital-twin-langgraph-mcp-a2a) | Use these to connect agents to devices, digital twins, industrial monitoring, and control workflows. |
 
 ## Navigation
-[Bioinformatics, Deep Learning & Healthcare](#bioinformatics-deep-learning-healthcare) | [Autonomous Coding & Software Engineering](#autonomous-coding-software-engineering) | [Scientific Research & Data Analysis](#scientific-research-data-analysis) | [Multi-Agent Systems & Frameworks](#multi-agent-systems-frameworks) | [Financial & Quantitative Trading](#financial-quantitative-trading) | [Personal Assistants & Productivity Tools](#personal-assistants-productivity-tools) | [Astronomy & Space Science](#astronomy-space-science) | [Physics & Simulation](#physics-simulation) | [Industrial Manufacturing & Robotics](#industrial-manufacturing-robotics)
+[Bioinformatics, Deep Learning & Healthcare](#bioinformatics-deep-learning-healthcare) | [Autonomous Coding & Software Engineering](#autonomous-coding-software-engineering) | [Scientific Research & Data Analysis](#scientific-research-data-analysis) | [Multi-Agent Systems & Frameworks](#multi-agent-systems-frameworks) | [Financial & Quantitative Trading](#financial-quantitative-trading) | [Personal Assistants & Productivity Tools](#personal-assistants-productivity-tools) | [Astronomy & Space Science](#astronomy-space-science) | [Physics & Simulation](#physics-simulation) | [Industrial Manufacturing & Robotics](#industrial-manufacturing-robotics) | [Meta Resources / Ecosystem Collections](#meta-resources--ecosystem-collections)
 
 ## Bioinformatics, Deep Learning & Healthcare
 | Project | Role | Project Summary | Integration Surfaces | Suggested App Role |
@@ -198,3 +199,8 @@ This expanded catalog is designed for both evaluation and downstream integration
 | [TWINFORGE-X-manufacturing-emergencies](https://github.com/nourmaatouk/TWINFORGE-X-manufacturing-emergencies) | Digital Twin / Simulation Agent | TWINFORGE-X is an AI-powered industrial digital twin and risk intelligence platform that uses multi-agent coordination and Machine Learning to... | App | Use as an industrial monitoring, digital twin, or device control subsystem. |
 | [Autonomous-Fault-Reasoning-Recovery-System-for-Industrial-Robots](https://github.com/siddhipatil300/Autonomous-Fault-Reasoning-Recovery-System-for-Industrial-Robots) | Robotics / Device Control Agent | Built a multi-agent smart manufacturing prototype using Webots and MQTT for real-time robot monitoring and control. Integrated LLaMA-3 with... | Robotics/Edge | Use as an industrial monitoring, digital twin, or device control subsystem. |
 | [multiagent-digital-twin-langgraph-mcp-a2a](https://github.com/xupeiwust/multiagent-digital-twin-langgraph-mcp-a2a) | MCP Tool Agent | A modular, cloud-native platform for industrial digital twins, powered by multi-agent orchestration, LangGraph workflows, Model Context Protocol... | MCP, Workflow | Use as an industrial monitoring, digital twin, or device control subsystem. |
+## Meta Resources / Ecosystem Collections
+| Project | Role | Project Summary | Integration Surfaces | Suggested App Role |
+| :--- | :--- | :--- | :--- | :--- |
+| [everything-claude-code](https://github.com/affaan-m/everything-claude-code) | Ecosystem Collection / Meta Resource | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. | Reference, MCP | Use as an ecosystem reference, workflow bundle, and operator playbook rather than as the primary runtime layer. |
+
