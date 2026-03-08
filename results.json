@@ -1,0 +1,2066 @@
+[
+  {
+    "domain": "Bioinformatics, Deep Learning & Healthcare",
+    "project_name": "Biomni",
+    "repo": "snap-stanford/Biomni",
+    "role": "Biomedical Research Agent",
+    "summary": "Biomni: a general-purpose biomedical AI agent",
+    "integration_surfaces": [
+      "App"
+    ],
+    "suggested_app_role": "Use as a domain specialist worker inside healthcare or life sciences workflows.",
+    "url": "https://github.com/snap-stanford/Biomni",
+    "stars": 2789,
+    "created_at": "2025-03-19T21:06:53Z",
+    "pushed_at": "2026-03-02T18:55:28Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Bioinformatics, Deep Learning & Healthcare",
+    "project_name": "ClawBio",
+    "repo": "ClawBio/ClawBio",
+    "role": "Biomedical Research Agent",
+    "summary": "🦖 ClawBio — The first bioinformatics-native AI agent skill library. Local-first. Reproducible. Built on OpenClaw.",
+    "integration_surfaces": [
+      "SDK/API"
+    ],
+    "suggested_app_role": "Use as a domain specialist worker inside healthcare or life sciences workflows.",
+    "url": "https://github.com/ClawBio/ClawBio",
+    "stars": 169,
+    "created_at": "2026-02-25T17:43:22Z",
+    "pushed_at": "2026-03-07T20:28:23Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Bioinformatics, Deep Learning & Healthcare",
+    "project_name": "STELLA",
+    "repo": "zaixizhang/STELLA",
+    "role": "Biomedical Research Agent",
+    "summary": "STELLA: Self-Evolving LLM Agent for Biomedical Research",
+    "integration_surfaces": [
+      "App"
+    ],
+    "suggested_app_role": "Use as a domain specialist worker inside healthcare or life sciences workflows.",
+    "url": "https://github.com/zaixizhang/STELLA",
+    "stars": 92,
+    "created_at": "2025-07-04T13:20:14Z",
+    "pushed_at": "2026-03-08T06:49:04Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Bioinformatics, Deep Learning & Healthcare",
+    "project_name": "BioDSA",
+    "repo": "RyanWangZf/BioDSA",
+    "role": "Biomedical Research Agent",
+    "summary": "BioDSA: Framework for Vibe Prototyping of AI Agents for Biomedicine",
+    "integration_surfaces": [
+      "SDK/API"
+    ],
+    "suggested_app_role": "Use as a domain specialist worker inside healthcare or life sciences workflows.",
+    "url": "https://github.com/RyanWangZf/BioDSA",
+    "stars": 50,
+    "created_at": "2025-01-02T23:23:36Z",
+    "pushed_at": "2026-02-12T12:12:33Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Bioinformatics, Deep Learning & Healthcare",
+    "project_name": "KGARevion",
+    "repo": "mims-harvard/KGARevion",
+    "role": "Medical Knowledge Retrieval Agent",
+    "summary": "KGARevion: AI Agent for Knowledge-Intensive Biomedical QA",
+    "integration_surfaces": [
+      "Data/RAG"
+    ],
+    "suggested_app_role": "Use as a domain specialist worker inside healthcare or life sciences workflows.",
+    "url": "https://github.com/mims-harvard/KGARevion",
+    "stars": 44,
+    "created_at": "2024-10-16T18:55:06Z",
+    "pushed_at": "2025-03-04T17:51:02Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Bioinformatics, Deep Learning & Healthcare",
+    "project_name": "MedicalGraphRAG",
+    "repo": "OpenGraphRAG/MedicalGraphRAG",
+    "role": "Medical Knowledge Retrieval Agent",
+    "summary": "An independently implemented GraphRAG system for medical knowledge applications, combining LLMs, agents, and knowledge graphs.",
+    "integration_surfaces": [
+      "App"
+    ],
+    "suggested_app_role": "Use as a domain specialist worker inside healthcare or life sciences workflows.",
+    "url": "https://github.com/OpenGraphRAG/MedicalGraphRAG",
+    "stars": 29,
+    "created_at": "2025-07-18T16:04:46Z",
+    "pushed_at": "2025-12-22T19:50:03Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Bioinformatics, Deep Learning & Healthcare",
+    "project_name": "m4",
+    "repo": "hannesill/m4",
+    "role": "Medical Knowledge Retrieval Agent",
+    "summary": "Give your AI agents clinical database access, research automation, and clinician-reviewed domain knowledge for MIMIC-IV, eICU, and more.",
+    "integration_surfaces": [
+      "Workflow",
+      "Data/RAG"
+    ],
+    "suggested_app_role": "Use as a domain specialist worker inside healthcare or life sciences workflows.",
+    "url": "https://github.com/hannesill/m4",
+    "stars": 22,
+    "created_at": "2025-10-27T18:02:44Z",
+    "pushed_at": "2026-02-21T02:31:40Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Bioinformatics, Deep Learning & Healthcare",
+    "project_name": "AMG-RAG",
+    "repo": "MrRezaeiUofT/AMG-RAG",
+    "role": "Medical Knowledge Retrieval Agent",
+    "summary": "AMG-RAG (Agentic Medical Graph-RAG) is a comprehensive framework that automates the construction and continuous updating of Medical Knowledge...",
+    "integration_surfaces": [
+      "SDK/API",
+      "Data/RAG"
+    ],
+    "suggested_app_role": "Use as a domain specialist worker inside healthcare or life sciences workflows.",
+    "url": "https://github.com/MrRezaeiUofT/AMG-RAG",
+    "stars": 22,
+    "created_at": "2025-05-27T16:31:03Z",
+    "pushed_at": "2026-02-05T00:41:53Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Bioinformatics, Deep Learning & Healthcare",
+    "project_name": "Biomni-Web",
+    "repo": "1-CellBio/Biomni-Web",
+    "role": "Biomedical Research Agent",
+    "summary": "Biomni-Web: A General-Purpose Biomedical AI Agent with Custom UI",
+    "integration_surfaces": [
+      "UI"
+    ],
+    "suggested_app_role": "Use as a domain specialist worker inside healthcare or life sciences workflows.",
+    "url": "https://github.com/1-CellBio/Biomni-Web",
+    "stars": 21,
+    "created_at": "2026-02-13T07:14:30Z",
+    "pushed_at": "2026-02-22T01:22:31Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Bioinformatics, Deep Learning & Healthcare",
+    "project_name": "knowledgebase-mcp",
+    "repo": "biocontext-ai/knowledgebase-mcp",
+    "role": "MCP Tool Agent",
+    "summary": "BioContextAI Knowledgebase MCP server for biomedical agentic AI",
+    "integration_surfaces": [
+      "MCP",
+      "Data/RAG"
+    ],
+    "suggested_app_role": "Use as a domain specialist worker inside healthcare or life sciences workflows.",
+    "url": "https://github.com/biocontext-ai/knowledgebase-mcp",
+    "stars": 20,
+    "created_at": "2025-07-14T13:12:28Z",
+    "pushed_at": "2026-01-12T10:25:48Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Bioinformatics, Deep Learning & Healthcare",
+    "project_name": "SciAgent-Skills",
+    "repo": "jaechang-hits/SciAgent-Skills",
+    "role": "Biomedical Research Agent",
+    "summary": "Life sciences computational skills for scientific AI agents",
+    "integration_surfaces": [
+      "App"
+    ],
+    "suggested_app_role": "Use as a domain specialist worker inside healthcare or life sciences workflows.",
+    "url": "https://github.com/jaechang-hits/SciAgent-Skills",
+    "stars": 19,
+    "created_at": "2026-02-18T02:50:16Z",
+    "pushed_at": "2026-03-08T11:10:40Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Bioinformatics, Deep Learning & Healthcare",
+    "project_name": "bio-mcp",
+    "repo": "acashmoney/bio-mcp",
+    "role": "MCP Tool Agent",
+    "summary": "BioMCP: Enabling agent-based biomedical R&D",
+    "integration_surfaces": [
+      "MCP"
+    ],
+    "suggested_app_role": "Use as a domain specialist worker inside healthcare or life sciences workflows.",
+    "url": "https://github.com/acashmoney/bio-mcp",
+    "stars": 18,
+    "created_at": "2025-03-01T18:45:00Z",
+    "pushed_at": "2025-03-11T03:11:30Z",
+    "language": "TypeScript"
+  },
+  {
+    "domain": "Bioinformatics, Deep Learning & Healthcare",
+    "project_name": "multi-model-AI-assistant-medical-bot",
+    "repo": "Tyler-KD/multi-model-AI-assistant-medical-bot",
+    "role": "Medical Knowledge Retrieval Agent",
+    "summary": "RAG-enabled multi-agentic system for medical diagnosis and assistance",
+    "integration_surfaces": [
+      "Data/RAG"
+    ],
+    "suggested_app_role": "Use as a domain specialist worker inside healthcare or life sciences workflows.",
+    "url": "https://github.com/Tyler-KD/multi-model-AI-assistant-medical-bot",
+    "stars": 17,
+    "created_at": "2023-11-07T05:02:14Z",
+    "pushed_at": "2026-03-08T07:03:51Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Bioinformatics, Deep Learning & Healthcare",
+    "project_name": "medsci-agent",
+    "repo": "omar-A-hassan/medsci-agent",
+    "role": "MCP Tool Agent",
+    "summary": "Biomedical research agent with 28 MCP tools powered by MedGemma, TxGemma and OpenCode",
+    "integration_surfaces": [
+      "MCP"
+    ],
+    "suggested_app_role": "Use as a domain specialist worker inside healthcare or life sciences workflows.",
+    "url": "https://github.com/omar-A-hassan/medsci-agent",
+    "stars": 16,
+    "created_at": "2026-02-21T22:32:04Z",
+    "pushed_at": "2026-03-08T18:38:28Z",
+    "language": "TypeScript"
+  },
+  {
+    "domain": "Bioinformatics, Deep Learning & Healthcare",
+    "project_name": "MediGenius",
+    "repo": "Md-Emon-Hasan/MediGenius",
+    "role": "Medical Knowledge Retrieval Agent",
+    "summary": "Advanced multi-agent Medical AI Assistant powered by LangGraph that delivers empathetic, doctor-like responses using a hybrid pipeline of LLM...",
+    "integration_surfaces": [
+      "App"
+    ],
+    "suggested_app_role": "Use as a domain specialist worker inside healthcare or life sciences workflows.",
+    "url": "https://github.com/Md-Emon-Hasan/MediGenius",
+    "stars": 15,
+    "created_at": "2025-04-30T17:17:17Z",
+    "pushed_at": "2026-02-28T14:50:41Z",
+    "language": "Jupyter Notebook"
+  },
+  {
+    "domain": "Bioinformatics, Deep Learning & Healthcare",
+    "project_name": "medical-mcps",
+    "repo": "pascalwhoop/medical-mcps",
+    "role": "MCP Tool Agent",
+    "summary": "A collection of MCP tools for AI agents to interact with major biomedical databases",
+    "integration_surfaces": [
+      "MCP"
+    ],
+    "suggested_app_role": "Use as a domain specialist worker inside healthcare or life sciences workflows.",
+    "url": "https://github.com/pascalwhoop/medical-mcps",
+    "stars": 14,
+    "created_at": "2025-11-12T17:11:25Z",
+    "pushed_at": "2026-02-12T13:44:47Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Bioinformatics, Deep Learning & Healthcare",
+    "project_name": "drug-discovery-rag-agent",
+    "repo": "Ahmadgatany/drug-discovery-rag-agent",
+    "role": "Medical Knowledge Retrieval Agent",
+    "summary": "Advanced Medical GraphRAG Agent for Drug Discovery using Llama 3.3, Neo4j GraphDB, and ChromaDB. Fetches and analyzes real-time data from PubMed...",
+    "integration_surfaces": [
+      "Data/RAG"
+    ],
+    "suggested_app_role": "Use as a domain specialist worker inside healthcare or life sciences workflows.",
+    "url": "https://github.com/Ahmadgatany/drug-discovery-rag-agent",
+    "stars": 12,
+    "created_at": "2025-12-25T22:50:36Z",
+    "pushed_at": "2025-12-31T21:05:59Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Bioinformatics, Deep Learning & Healthcare",
+    "project_name": "BRAINS",
+    "repo": "eliteresearchlab/BRAINS",
+    "role": "Medical Knowledge Retrieval Agent",
+    "summary": "BRAINS is a production-ready, multi-agent medical diagnostic platform powered by Retrieval-Augmented Generation (RAG) and LLM inference. It...",
+    "integration_surfaces": [
+      "Data/RAG"
+    ],
+    "suggested_app_role": "Use as a domain specialist worker inside healthcare or life sciences workflows.",
+    "url": "https://github.com/eliteresearchlab/BRAINS",
+    "stars": 11,
+    "created_at": "2025-12-06T20:27:31Z",
+    "pushed_at": "2026-01-25T16:11:54Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Autonomous Coding & Software Engineering",
+    "project_name": "opencode",
+    "repo": "anomalyco/opencode",
+    "role": "Code Execution Agent",
+    "summary": "The open source coding agent.",
+    "integration_surfaces": [
+      "SDK/API"
+    ],
+    "suggested_app_role": "Use as a coding worker, code reviewer, or developer copilot.",
+    "url": "https://github.com/anomalyco/opencode",
+    "stars": 118313,
+    "created_at": "2025-04-30T20:08:00Z",
+    "pushed_at": "2026-03-08T17:29:09Z",
+    "language": "TypeScript"
+  },
+  {
+    "domain": "Autonomous Coding & Software Engineering",
+    "project_name": "OpenHands",
+    "repo": "OpenHands/OpenHands",
+    "role": "Developer Workflow Agent",
+    "summary": "🙌 OpenHands: AI-Driven Development",
+    "integration_surfaces": [
+      "SDK/API"
+    ],
+    "suggested_app_role": "Use as a coding worker, code reviewer, or developer copilot.",
+    "url": "https://github.com/OpenHands/OpenHands",
+    "stars": 68759,
+    "created_at": "2024-03-13T03:33:31Z",
+    "pushed_at": "2026-03-08T18:45:48Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Autonomous Coding & Software Engineering",
+    "project_name": "codex",
+    "repo": "openai/codex",
+    "role": "Code Execution Agent",
+    "summary": "Lightweight coding agent that runs in your terminal",
+    "integration_surfaces": [
+      "CLI"
+    ],
+    "suggested_app_role": "Use as a coding worker, code reviewer, or developer copilot.",
+    "url": "https://github.com/openai/codex",
+    "stars": 63876,
+    "created_at": "2025-04-13T05:37:54Z",
+    "pushed_at": "2026-03-08T19:48:52Z",
+    "language": "Rust"
+  },
+  {
+    "domain": "Autonomous Coding & Software Engineering",
+    "project_name": "cline",
+    "repo": "cline/cline",
+    "role": "Code Execution Agent",
+    "summary": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission...",
+    "integration_surfaces": [
+      "IDE"
+    ],
+    "suggested_app_role": "Use as a coding worker, code reviewer, or developer copilot.",
+    "url": "https://github.com/cline/cline",
+    "stars": 58764,
+    "created_at": "2024-07-06T07:28:10Z",
+    "pushed_at": "2026-03-08T18:34:10Z",
+    "language": "TypeScript"
+  },
+  {
+    "domain": "Autonomous Coding & Software Engineering",
+    "project_name": "Flowise",
+    "repo": "FlowiseAI/Flowise",
+    "role": "Developer Workflow Agent",
+    "summary": "Build AI Agents, Visually",
+    "integration_surfaces": [
+      "SDK/API"
+    ],
+    "suggested_app_role": "Use as a coding worker, code reviewer, or developer copilot.",
+    "url": "https://github.com/FlowiseAI/Flowise",
+    "stars": 50522,
+    "created_at": "2023-03-31T12:23:09Z",
+    "pushed_at": "2026-03-08T17:04:31Z",
+    "language": "TypeScript"
+  },
+  {
+    "domain": "Autonomous Coding & Software Engineering",
+    "project_name": "agno",
+    "repo": "agno-agi/agno",
+    "role": "Developer Workflow Agent",
+    "summary": "Build, run, manage agentic software at scale.",
+    "integration_surfaces": [
+      "SDK/API"
+    ],
+    "suggested_app_role": "Use as a coding worker, code reviewer, or developer copilot.",
+    "url": "https://github.com/agno-agi/agno",
+    "stars": 38521,
+    "created_at": "2022-05-04T15:23:02Z",
+    "pushed_at": "2026-03-08T18:43:36Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Autonomous Coding & Software Engineering",
+    "project_name": "goose",
+    "repo": "block/goose",
+    "role": "Code Execution Agent",
+    "summary": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+    "integration_surfaces": [
+      "SDK/API"
+    ],
+    "suggested_app_role": "Use as a coding worker, code reviewer, or developer copilot.",
+    "url": "https://github.com/block/goose",
+    "stars": 32637,
+    "created_at": "2024-08-23T19:03:36Z",
+    "pushed_at": "2026-03-08T19:26:26Z",
+    "language": "Rust"
+  },
+  {
+    "domain": "Autonomous Coding & Software Engineering",
+    "project_name": "continue",
+    "repo": "continuedev/continue",
+    "role": "Developer Workflow Agent",
+    "summary": "⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI",
+    "integration_surfaces": [
+      "CLI"
+    ],
+    "suggested_app_role": "Use as a coding worker, code reviewer, or developer copilot.",
+    "url": "https://github.com/continuedev/continue",
+    "stars": 31715,
+    "created_at": "2023-05-24T03:39:39Z",
+    "pushed_at": "2026-03-08T17:33:36Z",
+    "language": "TypeScript"
+  },
+  {
+    "domain": "Autonomous Coding & Software Engineering",
+    "project_name": "chrome-devtools-mcp",
+    "repo": "ChromeDevTools/chrome-devtools-mcp",
+    "role": "MCP Tool Agent",
+    "summary": "Chrome DevTools for coding agents",
+    "integration_surfaces": [
+      "MCP"
+    ],
+    "suggested_app_role": "Use as a coding worker, code reviewer, or developer copilot.",
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "stars": 28100,
+    "created_at": "2025-09-11T10:39:55Z",
+    "pushed_at": "2026-03-08T03:05:32Z",
+    "language": "TypeScript"
+  },
+  {
+    "domain": "Autonomous Coding & Software Engineering",
+    "project_name": "deer-flow",
+    "repo": "bytedance/deer-flow",
+    "role": "Developer Workflow Agent",
+    "summary": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it...",
+    "integration_surfaces": [
+      "SDK/API"
+    ],
+    "suggested_app_role": "Use as a coding worker, code reviewer, or developer copilot.",
+    "url": "https://github.com/bytedance/deer-flow",
+    "stars": 25965,
+    "created_at": "2025-05-07T02:50:19Z",
+    "pushed_at": "2026-03-08T14:19:40Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Autonomous Coding & Software Engineering",
+    "project_name": "vibe-kanban",
+    "repo": "BloopAI/vibe-kanban",
+    "role": "Code Execution Agent",
+    "summary": "Get 10X more out of Claude Code, Codex or any coding agent",
+    "integration_surfaces": [
+      "SDK/API"
+    ],
+    "suggested_app_role": "Use as a coding worker, code reviewer, or developer copilot.",
+    "url": "https://github.com/BloopAI/vibe-kanban",
+    "stars": 22677,
+    "created_at": "2025-06-14T19:10:21Z",
+    "pushed_at": "2026-03-08T17:57:28Z",
+    "language": "Rust"
+  },
+  {
+    "domain": "Autonomous Coding & Software Engineering",
+    "project_name": "Roo-Code",
+    "repo": "RooCodeInc/Roo-Code",
+    "role": "Code Execution Agent",
+    "summary": "Roo Code gives you a whole dev team of AI agents in your code editor.",
+    "integration_surfaces": [
+      "IDE"
+    ],
+    "suggested_app_role": "Use as a coding worker, code reviewer, or developer copilot.",
+    "url": "https://github.com/RooCodeInc/Roo-Code",
+    "stars": 22564,
+    "created_at": "2024-10-31T17:56:50Z",
+    "pushed_at": "2026-03-08T02:36:56Z",
+    "language": "TypeScript"
+  },
+  {
+    "domain": "Autonomous Coding & Software Engineering",
+    "project_name": "pi-mono",
+    "repo": "badlogic/pi-mono",
+    "role": "Code Execution Agent",
+    "summary": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+    "integration_surfaces": [
+      "CLI",
+      "SDK/API",
+      "UI"
+    ],
+    "suggested_app_role": "Use as a coding worker, code reviewer, or developer copilot.",
+    "url": "https://github.com/badlogic/pi-mono",
+    "stars": 21213,
+    "created_at": "2025-08-09T14:03:50Z",
+    "pushed_at": "2026-03-08T18:14:54Z",
+    "language": "TypeScript"
+  },
+  {
+    "domain": "Autonomous Coding & Software Engineering",
+    "project_name": "beads",
+    "repo": "steveyegge/beads",
+    "role": "Code Execution Agent",
+    "summary": "Beads - A memory upgrade for your coding agent",
+    "integration_surfaces": [
+      "SDK/API"
+    ],
+    "suggested_app_role": "Use as a coding worker, code reviewer, or developer copilot.",
+    "url": "https://github.com/steveyegge/beads",
+    "stars": 18525,
+    "created_at": "2025-10-12T03:09:46Z",
+    "pushed_at": "2026-03-08T17:12:08Z",
+    "language": "Go"
+  },
+  {
+    "domain": "Autonomous Coding & Software Engineering",
+    "project_name": "adk-python",
+    "repo": "google/adk-python",
+    "role": "Code Execution Agent",
+    "summary": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+    "integration_surfaces": [
+      "SDK/API"
+    ],
+    "suggested_app_role": "Use as a coding worker, code reviewer, or developer copilot.",
+    "url": "https://github.com/google/adk-python",
+    "stars": 18255,
+    "created_at": "2025-04-01T20:44:40Z",
+    "pushed_at": "2026-03-08T04:00:07Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Autonomous Coding & Software Engineering",
+    "project_name": "kilocode",
+    "repo": "Kilo-Org/kilocode",
+    "role": "Code Execution Agent",
+    "summary": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. 1 coding...",
+    "integration_surfaces": [
+      "SDK/API"
+    ],
+    "suggested_app_role": "Use as a coding worker, code reviewer, or developer copilot.",
+    "url": "https://github.com/Kilo-Org/kilocode",
+    "stars": 16387,
+    "created_at": "2025-03-10T15:34:26Z",
+    "pushed_at": "2026-03-08T17:56:35Z",
+    "language": "TypeScript"
+  },
+  {
+    "domain": "Autonomous Coding & Software Engineering",
+    "project_name": "GitNexus",
+    "repo": "abhigyanpatwari/GitNexus",
+    "role": "Code Execution Agent",
+    "summary": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in...",
+    "integration_surfaces": [
+      "Data/RAG"
+    ],
+    "suggested_app_role": "Use as a coding worker, code reviewer, or developer copilot.",
+    "url": "https://github.com/abhigyanpatwari/GitNexus",
+    "stars": 11047,
+    "created_at": "2025-08-02T23:20:31Z",
+    "pushed_at": "2026-03-08T18:20:20Z",
+    "language": "TypeScript"
+  },
+  {
+    "domain": "Autonomous Coding & Software Engineering",
+    "project_name": "OpenSandbox",
+    "repo": "alibaba/OpenSandbox",
+    "role": "Developer Workflow Agent",
+    "summary": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes...",
+    "integration_surfaces": [
+      "SDK/API"
+    ],
+    "suggested_app_role": "Use as a coding worker, code reviewer, or developer copilot.",
+    "url": "https://github.com/alibaba/OpenSandbox",
+    "stars": 6889,
+    "created_at": "2025-12-17T08:41:09Z",
+    "pushed_at": "2026-03-08T08:43:31Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Scientific Research & Data Analysis",
+    "project_name": "DocsGPT",
+    "repo": "arc53/DocsGPT",
+    "role": "Data Analysis Agent",
+    "summary": "Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support,...",
+    "integration_surfaces": [
+      "Data/RAG"
+    ],
+    "suggested_app_role": "Use as a research retrieval, experiment design, or data analysis worker.",
+    "url": "https://github.com/arc53/DocsGPT",
+    "stars": 17747,
+    "created_at": "2023-02-02T11:03:23Z",
+    "pushed_at": "2026-03-04T21:41:54Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Scientific Research & Data Analysis",
+    "project_name": "autoresearch",
+    "repo": "karpathy/autoresearch",
+    "role": "Scientific Research Agent",
+    "summary": "AI agents running research on single-GPU nanochat training automatically",
+    "integration_surfaces": [
+      "App"
+    ],
+    "suggested_app_role": "Use as a research retrieval, experiment design, or data analysis worker.",
+    "url": "https://github.com/karpathy/autoresearch",
+    "stars": 7351,
+    "created_at": "2026-03-06T22:00:43Z",
+    "pushed_at": "2026-03-08T17:06:30Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Scientific Research & Data Analysis",
+    "project_name": "AI-Scientist-v2",
+    "repo": "SakanaAI/AI-Scientist-v2",
+    "role": "Scientific Research Agent",
+    "summary": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
+    "integration_surfaces": [
+      "Data/RAG"
+    ],
+    "suggested_app_role": "Use as a research retrieval, experiment design, or data analysis worker.",
+    "url": "https://github.com/SakanaAI/AI-Scientist-v2",
+    "stars": 2233,
+    "created_at": "2025-04-08T06:37:25Z",
+    "pushed_at": "2025-12-19T07:46:32Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Scientific Research & Data Analysis",
+    "project_name": "pasa",
+    "repo": "bytedance/pasa",
+    "role": "Scientific Research Agent",
+    "summary": "PaSa -- an advanced paper search agent powered by large language models. It can autonomously make a series of decisions, including invoking search...",
+    "integration_surfaces": [
+      "Data/RAG"
+    ],
+    "suggested_app_role": "Use as a research retrieval, experiment design, or data analysis worker.",
+    "url": "https://github.com/bytedance/pasa",
+    "stars": 1516,
+    "created_at": "2024-12-23T08:38:18Z",
+    "pushed_at": "2025-05-27T11:09:11Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Scientific Research & Data Analysis",
+    "project_name": "InternAgent",
+    "repo": "InternScience/InternAgent",
+    "role": "Scientific Research Agent",
+    "summary": "InternAgent-1.5: A Unified Agentic Framework for Long-Horizon Autonomous Scientific Discovery",
+    "integration_surfaces": [
+      "SDK/API"
+    ],
+    "suggested_app_role": "Use as a research retrieval, experiment design, or data analysis worker.",
+    "url": "https://github.com/InternScience/InternAgent",
+    "stars": 1086,
+    "created_at": "2025-05-16T09:31:16Z",
+    "pushed_at": "2026-02-14T14:02:25Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Scientific Research & Data Analysis",
+    "project_name": "agentic-data-scientist",
+    "repo": "K-Dense-AI/agentic-data-scientist",
+    "role": "Data Analysis Agent",
+    "summary": "An end-to-end Data Scientist",
+    "integration_surfaces": [
+      "Data/RAG"
+    ],
+    "suggested_app_role": "Use as a research retrieval, experiment design, or data analysis worker.",
+    "url": "https://github.com/K-Dense-AI/agentic-data-scientist",
+    "stars": 553,
+    "created_at": "2025-11-04T07:29:49Z",
+    "pushed_at": "2025-12-07T21:50:15Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Scientific Research & Data Analysis",
+    "project_name": "Denario",
+    "repo": "AstroPilot-AI/Denario",
+    "role": "Scientific Research Agent",
+    "summary": "Modular Multi-Agent System for Scientific Research Assistance",
+    "integration_surfaces": [
+      "App"
+    ],
+    "suggested_app_role": "Use as a research retrieval, experiment design, or data analysis worker.",
+    "url": "https://github.com/AstroPilot-AI/Denario",
+    "stars": 517,
+    "created_at": "2025-04-06T23:51:57Z",
+    "pushed_at": "2026-02-09T12:11:29Z",
+    "language": "TeX"
+  },
+  {
+    "domain": "Scientific Research & Data Analysis",
+    "project_name": "xpert",
+    "repo": "xpert-ai/xpert",
+    "role": "Data Analysis Agent",
+    "summary": "Xpert AI is an AI agents and data analysis platform for enterprises to make business decisions.",
+    "integration_surfaces": [
+      "Data/RAG"
+    ],
+    "suggested_app_role": "Use as a research retrieval, experiment design, or data analysis worker.",
+    "url": "https://github.com/xpert-ai/xpert",
+    "stars": 372,
+    "created_at": "2024-11-20T05:40:38Z",
+    "pushed_at": "2026-03-07T09:59:30Z",
+    "language": "TypeScript"
+  },
+  {
+    "domain": "Scientific Research & Data Analysis",
+    "project_name": "robin",
+    "repo": "Future-House/robin",
+    "role": "Scientific Research Agent",
+    "summary": "Robin: A multi-agent system for automating scientific discovery",
+    "integration_surfaces": [
+      "App"
+    ],
+    "suggested_app_role": "Use as a research retrieval, experiment design, or data analysis worker.",
+    "url": "https://github.com/Future-House/robin",
+    "stars": 286,
+    "created_at": "2025-05-19T21:45:45Z",
+    "pushed_at": "2025-11-24T22:00:49Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Scientific Research & Data Analysis",
+    "project_name": "discoveryworld",
+    "repo": "allenai/discoveryworld",
+    "role": "Scientific Research Agent",
+    "summary": "A virtual environment for developing and evaluating automated scientific discovery agents.",
+    "integration_surfaces": [
+      "App"
+    ],
+    "suggested_app_role": "Use as a research retrieval, experiment design, or data analysis worker.",
+    "url": "https://github.com/allenai/discoveryworld",
+    "stars": 200,
+    "created_at": "2023-11-27T18:49:46Z",
+    "pushed_at": "2025-03-10T22:44:30Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Scientific Research & Data Analysis",
+    "project_name": "open-data-scientist",
+    "repo": "togethercomputer/open-data-scientist",
+    "role": "Data Analysis Agent",
+    "summary": "Open AI data scientist agent that automates complex data analysis tasks using the ReAct framework. Execute Python code locally or in the cloud,...",
+    "integration_surfaces": [
+      "SDK/API",
+      "Data/RAG"
+    ],
+    "suggested_app_role": "Use as a research retrieval, experiment design, or data analysis worker.",
+    "url": "https://github.com/togethercomputer/open-data-scientist",
+    "stars": 184,
+    "created_at": "2025-06-05T16:13:09Z",
+    "pushed_at": "2026-01-10T01:16:25Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Scientific Research & Data Analysis",
+    "project_name": "NewtonBench",
+    "repo": "HKUST-KnowComp/NewtonBench",
+    "role": "Scientific Research Agent",
+    "summary": "[ICLR2026] NewtonBench: Benchmarking Generalizable Scientific Law Discovery in LLM Agents",
+    "integration_surfaces": [
+      "App"
+    ],
+    "suggested_app_role": "Use as a research retrieval, experiment design, or data analysis worker.",
+    "url": "https://github.com/HKUST-KnowComp/NewtonBench",
+    "stars": 139,
+    "created_at": "2025-10-08T14:10:44Z",
+    "pushed_at": "2026-02-27T01:04:09Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Scientific Research & Data Analysis",
+    "project_name": "ScienceAgentBench",
+    "repo": "OSU-NLP-Group/ScienceAgentBench",
+    "role": "Scientific Research Agent",
+    "summary": "[ICLR'25] ScienceAgentBench: Toward Rigorous Assessment of Language Agents for Data-Driven Scientific Discovery",
+    "integration_surfaces": [
+      "Data/RAG"
+    ],
+    "suggested_app_role": "Use as a research retrieval, experiment design, or data analysis worker.",
+    "url": "https://github.com/OSU-NLP-Group/ScienceAgentBench",
+    "stars": 125,
+    "created_at": "2024-10-02T14:38:55Z",
+    "pushed_at": "2026-03-05T20:39:28Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Scientific Research & Data Analysis",
+    "project_name": "BioAgents",
+    "repo": "bio-xyz/BioAgents",
+    "role": "Data Analysis Agent",
+    "summary": "BioAgents: An AI scientist framework for autonomous deep research in biological sciences. Multi-agent system combining literature analysis agents...",
+    "integration_surfaces": [
+      "SDK/API"
+    ],
+    "suggested_app_role": "Use as a research retrieval, experiment design, or data analysis worker.",
+    "url": "https://github.com/bio-xyz/BioAgents",
+    "stars": 102,
+    "created_at": "2025-10-17T12:59:30Z",
+    "pushed_at": "2026-03-07T02:38:58Z",
+    "language": "TypeScript"
+  },
+  {
+    "domain": "Scientific Research & Data Analysis",
+    "project_name": "SciEvalKit",
+    "repo": "InternScience/SciEvalKit",
+    "role": "Scientific Evaluation / Benchmark Agent",
+    "summary": "A unified evaluation toolkit and leaderboard for rigorously assessing the scientific intelligence of large language and vision–language models...",
+    "integration_surfaces": [
+      "SDK/API"
+    ],
+    "suggested_app_role": "Use as a research retrieval, experiment design, or data analysis worker.",
+    "url": "https://github.com/InternScience/SciEvalKit",
+    "stars": 74,
+    "created_at": "2025-12-03T05:56:18Z",
+    "pushed_at": "2026-02-27T03:28:49Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Scientific Research & Data Analysis",
+    "project_name": "brenner_bot",
+    "repo": "Dicklesworthstone/brenner_bot",
+    "role": "Scientific Research Agent",
+    "summary": "Harness the scientific methods of Sydney Brenner using AI Agents",
+    "integration_surfaces": [
+      "App"
+    ],
+    "suggested_app_role": "Use as a research retrieval, experiment design, or data analysis worker.",
+    "url": "https://github.com/Dicklesworthstone/brenner_bot",
+    "stars": 65,
+    "created_at": "2025-12-29T21:28:40Z",
+    "pushed_at": "2026-03-06T07:25:56Z",
+    "language": "TypeScript"
+  },
+  {
+    "domain": "Scientific Research & Data Analysis",
+    "project_name": "SciLink",
+    "repo": "ziatdinovmax/SciLink",
+    "role": "Scientific Research Agent",
+    "summary": "LLM-powered agents for scientific research automation",
+    "integration_surfaces": [
+      "Workflow"
+    ],
+    "suggested_app_role": "Use as a research retrieval, experiment design, or data analysis worker.",
+    "url": "https://github.com/ziatdinovmax/SciLink",
+    "stars": 46,
+    "created_at": "2025-04-10T18:04:29Z",
+    "pushed_at": "2026-03-08T19:27:52Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Scientific Research & Data Analysis",
+    "project_name": "PiFlow",
+    "repo": "amair-lab/PiFlow",
+    "role": "Scientific Research Agent",
+    "summary": "PiFlow: Principle-aware Scientific Discovery with Multi-Agent Collaboration",
+    "integration_surfaces": [
+      "App"
+    ],
+    "suggested_app_role": "Use as a research retrieval, experiment design, or data analysis worker.",
+    "url": "https://github.com/amair-lab/PiFlow",
+    "stars": 42,
+    "created_at": "2025-05-19T08:49:29Z",
+    "pushed_at": "2026-01-07T08:34:57Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Multi-Agent Systems & Frameworks",
+    "project_name": "langchain",
+    "repo": "langchain-ai/langchain",
+    "role": "Multi-Agent Orchestration Framework",
+    "summary": "The agent engineering platform",
+    "integration_surfaces": [
+      "SDK/API"
+    ],
+    "suggested_app_role": "Use as the core agent runtime and orchestration backbone.",
+    "url": "https://github.com/langchain-ai/langchain",
+    "stars": 128638,
+    "created_at": "2022-10-17T02:58:36Z",
+    "pushed_at": "2026-03-08T19:36:04Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Multi-Agent Systems & Frameworks",
+    "project_name": "MetaGPT",
+    "repo": "FoundationAgents/MetaGPT",
+    "role": "Multi-Agent Orchestration Framework",
+    "summary": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+    "integration_surfaces": [
+      "SDK/API"
+    ],
+    "suggested_app_role": "Use as the core agent runtime and orchestration backbone.",
+    "url": "https://github.com/FoundationAgents/MetaGPT",
+    "stars": 64872,
+    "created_at": "2023-06-30T09:04:55Z",
+    "pushed_at": "2026-01-21T10:12:33Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Multi-Agent Systems & Frameworks",
+    "project_name": "conductor",
+    "repo": "conductor-oss/conductor",
+    "role": "Multi-Agent Orchestration Framework",
+    "summary": "Conductor is an event driven agentic orchestration platform providing durable and highly resilient execution engine for applications and AI Agents",
+    "integration_surfaces": [
+      "Workflow"
+    ],
+    "suggested_app_role": "Use as the core agent runtime and orchestration backbone.",
+    "url": "https://github.com/conductor-oss/conductor",
+    "stars": 31496,
+    "created_at": "2023-12-08T06:06:09Z",
+    "pushed_at": "2026-03-08T18:48:16Z",
+    "language": "Java"
+  },
+  {
+    "domain": "Multi-Agent Systems & Frameworks",
+    "project_name": "mastra",
+    "repo": "mastra-ai/mastra",
+    "role": "Multi-Agent Orchestration Framework",
+    "summary": "From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.",
+    "integration_surfaces": [
+      "SDK/API"
+    ],
+    "suggested_app_role": "Use as the core agent runtime and orchestration backbone.",
+    "url": "https://github.com/mastra-ai/mastra",
+    "stars": 21802,
+    "created_at": "2024-08-06T20:44:31Z",
+    "pushed_at": "2026-03-08T18:15:10Z",
+    "language": "TypeScript"
+  },
+  {
+    "domain": "Multi-Agent Systems & Frameworks",
+    "project_name": "activepieces",
+    "repo": "activepieces/activepieces",
+    "role": "MCP Tool Agent",
+    "summary": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents •...",
+    "integration_surfaces": [
+      "MCP",
+      "Workflow"
+    ],
+    "suggested_app_role": "Use as the core agent runtime and orchestration backbone.",
+    "url": "https://github.com/activepieces/activepieces",
+    "stars": 21134,
+    "created_at": "2022-12-03T02:52:46Z",
+    "pushed_at": "2026-03-08T18:22:14Z",
+    "language": "TypeScript"
+  },
+  {
+    "domain": "Multi-Agent Systems & Frameworks",
+    "project_name": "openai-agents-python",
+    "repo": "openai/openai-agents-python",
+    "role": "Multi-Agent Orchestration Framework",
+    "summary": "A lightweight, powerful framework for multi-agent workflows",
+    "integration_surfaces": [
+      "SDK/API"
+    ],
+    "suggested_app_role": "Use as the core agent runtime and orchestration backbone.",
+    "url": "https://github.com/openai/openai-agents-python",
+    "stars": 19425,
+    "created_at": "2025-03-11T03:42:36Z",
+    "pushed_at": "2026-03-08T02:23:21Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Multi-Agent Systems & Frameworks",
+    "project_name": "parlant",
+    "repo": "emcie-co/parlant",
+    "role": "Multi-Agent Orchestration Framework",
+    "summary": "The conversational control layer for customer-facing AI agents - Parlant is a context-engineering framework optimized for controlling customer...",
+    "integration_surfaces": [
+      "SDK/API"
+    ],
+    "suggested_app_role": "Use as the core agent runtime and orchestration backbone.",
+    "url": "https://github.com/emcie-co/parlant",
+    "stars": 17811,
+    "created_at": "2024-02-15T20:16:15Z",
+    "pushed_at": "2026-03-08T18:45:03Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Multi-Agent Systems & Frameworks",
+    "project_name": "camel",
+    "repo": "camel-ai/camel",
+    "role": "Multi-Agent Orchestration Framework",
+    "summary": "🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org",
+    "integration_surfaces": [
+      "SDK/API"
+    ],
+    "suggested_app_role": "Use as the core agent runtime and orchestration backbone.",
+    "url": "https://github.com/camel-ai/camel",
+    "stars": 16224,
+    "created_at": "2023-03-17T21:41:54Z",
+    "pushed_at": "2026-03-06T09:39:49Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Multi-Agent Systems & Frameworks",
+    "project_name": "RagaAI-Catalyst",
+    "repo": "raga-ai-hub/RagaAI-Catalyst",
+    "role": "Multi-Agent Orchestration Framework",
+    "summary": "Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging...",
+    "integration_surfaces": [
+      "SDK/API"
+    ],
+    "suggested_app_role": "Use as the core agent runtime and orchestration backbone.",
+    "url": "https://github.com/raga-ai-hub/RagaAI-Catalyst",
+    "stars": 16107,
+    "created_at": "2024-08-26T12:13:15Z",
+    "pushed_at": "2026-02-11T14:43:33Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Multi-Agent Systems & Frameworks",
+    "project_name": "agent-zero",
+    "repo": "agent0ai/agent-zero",
+    "role": "Multi-Agent Orchestration Framework",
+    "summary": "Agent Zero AI framework",
+    "integration_surfaces": [
+      "SDK/API"
+    ],
+    "suggested_app_role": "Use as the core agent runtime and orchestration backbone.",
+    "url": "https://github.com/agent0ai/agent-zero",
+    "stars": 15893,
+    "created_at": "2024-06-10T09:10:45Z",
+    "pushed_at": "2026-03-08T18:32:17Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Multi-Agent Systems & Frameworks",
+    "project_name": "pydantic-ai",
+    "repo": "pydantic/pydantic-ai",
+    "role": "Multi-Agent Orchestration Framework",
+    "summary": "GenAI Agent Framework, the Pydantic way",
+    "integration_surfaces": [
+      "SDK/API"
+    ],
+    "suggested_app_role": "Use as the core agent runtime and orchestration backbone.",
+    "url": "https://github.com/pydantic/pydantic-ai",
+    "stars": 15319,
+    "created_at": "2024-06-21T15:55:04Z",
+    "pushed_at": "2026-03-08T18:45:05Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Multi-Agent Systems & Frameworks",
+    "project_name": "trigger.dev",
+    "repo": "triggerdotdev/trigger.dev",
+    "role": "Multi-Agent Orchestration Framework",
+    "summary": "Trigger.dev – build and deploy fully‑managed AI agents and workflows",
+    "integration_surfaces": [
+      "SDK/API"
+    ],
+    "suggested_app_role": "Use as the core agent runtime and orchestration backbone.",
+    "url": "https://github.com/triggerdotdev/trigger.dev",
+    "stars": 13968,
+    "created_at": "2022-11-30T14:59:07Z",
+    "pushed_at": "2026-03-08T19:07:21Z",
+    "language": "TypeScript"
+  },
+  {
+    "domain": "Multi-Agent Systems & Frameworks",
+    "project_name": "spring-ai-alibaba",
+    "repo": "alibaba/spring-ai-alibaba",
+    "role": "Multi-Agent Orchestration Framework",
+    "summary": "Agentic AI Framework for Java Developers",
+    "integration_surfaces": [
+      "SDK/API"
+    ],
+    "suggested_app_role": "Use as the core agent runtime and orchestration backbone.",
+    "url": "https://github.com/alibaba/spring-ai-alibaba",
+    "stars": 8624,
+    "created_at": "2024-09-09T01:35:50Z",
+    "pushed_at": "2026-03-07T05:59:09Z",
+    "language": "Java"
+  },
+  {
+    "domain": "Multi-Agent Systems & Frameworks",
+    "project_name": "agent-framework",
+    "repo": "microsoft/agent-framework",
+    "role": "Multi-Agent Orchestration Framework",
+    "summary": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
+    "integration_surfaces": [
+      "SDK/API"
+    ],
+    "suggested_app_role": "Use as the core agent runtime and orchestration backbone.",
+    "url": "https://github.com/microsoft/agent-framework",
+    "stars": 7736,
+    "created_at": "2025-04-28T19:40:42Z",
+    "pushed_at": "2026-03-08T14:32:54Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Multi-Agent Systems & Frameworks",
+    "project_name": "MindSearch",
+    "repo": "InternLM/MindSearch",
+    "role": "Multi-Agent Orchestration Framework",
+    "summary": "🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)",
+    "integration_surfaces": [
+      "SDK/API",
+      "UI",
+      "Data/RAG"
+    ],
+    "suggested_app_role": "Use as the core agent runtime and orchestration backbone.",
+    "url": "https://github.com/InternLM/MindSearch",
+    "stars": 6789,
+    "created_at": "2024-07-28T03:54:50Z",
+    "pushed_at": "2025-07-04T10:06:45Z",
+    "language": "JavaScript"
+  },
+  {
+    "domain": "Multi-Agent Systems & Frameworks",
+    "project_name": "PraisonAI",
+    "repo": "MervinPraison/PraisonAI",
+    "role": "Multi-Agent Orchestration Framework",
+    "summary": "PraisonAI is a production-ready Multi AI Agents framework, designed to create AI Agents to automate and solve problems ranging from simple tasks...",
+    "integration_surfaces": [
+      "SDK/API"
+    ],
+    "suggested_app_role": "Use as the core agent runtime and orchestration backbone.",
+    "url": "https://github.com/MervinPraison/PraisonAI",
+    "stars": 5638,
+    "created_at": "2024-03-19T16:45:25Z",
+    "pushed_at": "2026-03-08T07:03:43Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Multi-Agent Systems & Frameworks",
+    "project_name": "ROMA",
+    "repo": "sentient-agi/ROMA",
+    "role": "Multi-Agent Orchestration Framework",
+    "summary": "Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems.",
+    "integration_surfaces": [
+      "SDK/API"
+    ],
+    "suggested_app_role": "Use as the core agent runtime and orchestration backbone.",
+    "url": "https://github.com/sentient-agi/ROMA",
+    "stars": 4992,
+    "created_at": "2025-05-12T19:35:31Z",
+    "pushed_at": "2026-02-16T21:30:31Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Multi-Agent Systems & Frameworks",
+    "project_name": "agency-swarm",
+    "repo": "VRSEN/agency-swarm",
+    "role": "Multi-Agent Orchestration Framework",
+    "summary": "Reliable Multi-Agent Orchestration Framework",
+    "integration_surfaces": [
+      "SDK/API",
+      "Workflow"
+    ],
+    "suggested_app_role": "Use as the core agent runtime and orchestration backbone.",
+    "url": "https://github.com/VRSEN/agency-swarm",
+    "stars": 4029,
+    "created_at": "2023-11-16T02:29:26Z",
+    "pushed_at": "2026-03-05T03:10:29Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Financial & Quantitative Trading",
+    "project_name": "OpenBB",
+    "repo": "OpenBB-finance/OpenBB",
+    "role": "Trading / Quant Agent",
+    "summary": "Financial data platform for analysts, quants and AI agents.",
+    "integration_surfaces": [
+      "Data/RAG"
+    ],
+    "suggested_app_role": "Use as a market analysis worker or strategy research sub-agent.",
+    "url": "https://github.com/OpenBB-finance/OpenBB",
+    "stars": 62706,
+    "created_at": "2020-12-20T10:46:38Z",
+    "pushed_at": "2026-03-07T05:07:32Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Financial & Quantitative Trading",
+    "project_name": "qlib",
+    "repo": "microsoft/qlib",
+    "role": "Trading / Quant Agent",
+    "summary": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing...",
+    "integration_surfaces": [
+      "App"
+    ],
+    "suggested_app_role": "Use as a market analysis worker or strategy research sub-agent.",
+    "url": "https://github.com/microsoft/qlib",
+    "stars": 38469,
+    "created_at": "2020-08-14T06:46:00Z",
+    "pushed_at": "2026-02-12T13:07:19Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Financial & Quantitative Trading",
+    "project_name": "TradingAgents",
+    "repo": "TauricResearch/TradingAgents",
+    "role": "Trading / Quant Agent",
+    "summary": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "integration_surfaces": [
+      "SDK/API"
+    ],
+    "suggested_app_role": "Use as a market analysis worker or strategy research sub-agent.",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "stars": 31586,
+    "created_at": "2024-12-28T03:31:08Z",
+    "pushed_at": "2026-02-25T00:28:56Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Financial & Quantitative Trading",
+    "project_name": "daily_stock_analysis",
+    "repo": "ZhuLinsen/daily_stock_analysis",
+    "role": "Trading / Quant Agent",
+    "summary": "An LLM-driven stock analysis system for A-shares, Hong Kong equities, and US equities, combining multi-source market data, real-time news, decision dashboards, and scheduled delivery.",
+    "integration_surfaces": [
+      "App"
+    ],
+    "suggested_app_role": "Use as a market analysis worker or strategy research sub-agent.",
+    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "stars": 17466,
+    "created_at": "2026-01-10T06:43:20Z",
+    "pushed_at": "2026-03-08T14:58:28Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Financial & Quantitative Trading",
+    "project_name": "AutoHedge",
+    "repo": "The-Swarm-Corporation/AutoHedge",
+    "role": "Trading / Quant Agent",
+    "summary": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk...",
+    "integration_surfaces": [
+      "App"
+    ],
+    "suggested_app_role": "Use as a market analysis worker or strategy research sub-agent.",
+    "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+    "stars": 1097,
+    "created_at": "2024-12-10T20:34:46Z",
+    "pushed_at": "2026-03-05T19:17:58Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Financial & Quantitative Trading",
+    "project_name": "finnts",
+    "repo": "microsoft/finnts",
+    "role": "Trading / Quant Agent",
+    "summary": "Microsoft Finance Time Series Forecasting Framework (FinnTS) is a forecasting package that utilizes cutting-edge time series forecasting and...",
+    "integration_surfaces": [
+      "SDK/API",
+      "Robotics/Edge"
+    ],
+    "suggested_app_role": "Use as a market analysis worker or strategy research sub-agent.",
+    "url": "https://github.com/microsoft/finnts",
+    "stars": 247,
+    "created_at": "2021-07-02T16:53:31Z",
+    "pushed_at": "2026-03-08T17:09:24Z",
+    "language": "R"
+  },
+  {
+    "domain": "Financial & Quantitative Trading",
+    "project_name": "kalshi-ai-trading-bot",
+    "repo": "ryanfrigo/kalshi-ai-trading-bot",
+    "role": "Trading / Quant Agent",
+    "summary": "🤖 Advanced AI-powered trading system for Kalshi prediction markets. Features Grok-4 integration, multi-agent decision making, portfolio...",
+    "integration_surfaces": [
+      "App"
+    ],
+    "suggested_app_role": "Use as a market analysis worker or strategy research sub-agent.",
+    "url": "https://github.com/ryanfrigo/kalshi-ai-trading-bot",
+    "stars": 165,
+    "created_at": "2025-07-26T18:41:32Z",
+    "pushed_at": "2026-03-08T19:22:26Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Financial & Quantitative Trading",
+    "project_name": "quantconnect-mcp",
+    "repo": "taylorwilsdon/quantconnect-mcp",
+    "role": "MCP Tool Agent",
+    "summary": "QuantConnect Algorithmic Trading Platform Orchestration MCP - Agentic LLM Driven Trading Strategy Design, Research & Implementation",
+    "integration_surfaces": [
+      "MCP",
+      "Workflow"
+    ],
+    "suggested_app_role": "Use as a market analysis worker or strategy research sub-agent.",
+    "url": "https://github.com/taylorwilsdon/quantconnect-mcp",
+    "stars": 86,
+    "created_at": "2025-06-10T00:10:54Z",
+    "pushed_at": "2025-08-24T17:16:26Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Financial & Quantitative Trading",
+    "project_name": "oracle3",
+    "repo": "YichengYang-Ethan/oracle3",
+    "role": "Trading / Quant Agent",
+    "summary": "AI-native prediction market trading agent on Solana, Polymarket, and Kalshi",
+    "integration_surfaces": [
+      "App"
+    ],
+    "suggested_app_role": "Use as a market analysis worker or strategy research sub-agent.",
+    "url": "https://github.com/YichengYang-Ethan/oracle3",
+    "stars": 77,
+    "created_at": "2026-02-28T20:20:18Z",
+    "pushed_at": "2026-03-08T16:14:53Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Financial & Quantitative Trading",
+    "project_name": "kraken-cli",
+    "repo": "krakenfx/kraken-cli",
+    "role": "Trading / Quant Agent",
+    "summary": "The first CLI built for AI agents to trade crypto",
+    "integration_surfaces": [
+      "CLI"
+    ],
+    "suggested_app_role": "Use as a market analysis worker or strategy research sub-agent.",
+    "url": "https://github.com/krakenfx/kraken-cli",
+    "stars": 67,
+    "created_at": "2026-03-06T22:18:12Z",
+    "pushed_at": "2026-03-08T13:59:26Z",
+    "language": "Rust"
+  },
+  {
+    "domain": "Financial & Quantitative Trading",
+    "project_name": "TickrAgent",
+    "repo": "The-Swarm-Corporation/TickrAgent",
+    "role": "Trading / Quant Agent",
+    "summary": "tickr-agent is an enterprise-ready, scalable Python library for building swarms of financial agents that conduct comprehensive stock analysis and...",
+    "integration_surfaces": [
+      "SDK/API"
+    ],
+    "suggested_app_role": "Use as a market analysis worker or strategy research sub-agent.",
+    "url": "https://github.com/The-Swarm-Corporation/TickrAgent",
+    "stars": 55,
+    "created_at": "2024-09-15T23:48:21Z",
+    "pushed_at": "2025-10-13T19:19:24Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Financial & Quantitative Trading",
+    "project_name": "MarketBot",
+    "repo": "EthanAlgoX/MarketBot",
+    "role": "Trading / Quant Agent",
+    "summary": "MarketBot is a finance-customized version of openclaw, built as a dedicated AI agent for market intelligence, trading analysis, and decision support.",
+    "integration_surfaces": [
+      "App"
+    ],
+    "suggested_app_role": "Use as a market analysis worker or strategy research sub-agent.",
+    "url": "https://github.com/EthanAlgoX/MarketBot",
+    "stars": 54,
+    "created_at": "2026-01-29T17:56:08Z",
+    "pushed_at": "2026-03-08T15:25:20Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Financial & Quantitative Trading",
+    "project_name": "stock_datasource",
+    "repo": "Yourdaylight/stock_datasource",
+    "role": "Trading / Quant Agent",
+    "summary": "A local financial database built on Tushare for AI-native multi-agent financial analysis, with skill-based extension, adaptive HTTP / MCP interfaces, and autonomous local data access.",
+    "integration_surfaces": [
+      "App"
+    ],
+    "suggested_app_role": "Use as a market analysis worker or strategy research sub-agent.",
+    "url": "https://github.com/Yourdaylight/stock_datasource",
+    "stars": 43,
+    "created_at": "2025-10-25T09:37:48Z",
+    "pushed_at": "2026-03-08T18:41:50Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Financial & Quantitative Trading",
+    "project_name": "BitQuant",
+    "repo": "OpenGradient/BitQuant",
+    "role": "Trading / Quant Agent",
+    "summary": "BitQuant is an open-source AI agent framework for building quantitative AI agents, leveraging specialized models for ML-powered analytics,...",
+    "integration_surfaces": [
+      "SDK/API"
+    ],
+    "suggested_app_role": "Use as a market analysis worker or strategy research sub-agent.",
+    "url": "https://github.com/OpenGradient/BitQuant",
+    "stars": 41,
+    "created_at": "2025-01-17T19:26:32Z",
+    "pushed_at": "2026-03-07T21:41:58Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Financial & Quantitative Trading",
+    "project_name": "OpenBB-finance-AIPowered-Analysis-Agents",
+    "repo": "Proxemnn/OpenBB-finance-AIPowered-Analysis-Agents",
+    "role": "Trading / Quant Agent",
+    "summary": "Custom agents for OpenBB Workspace, plugins",
+    "integration_surfaces": [
+      "UI"
+    ],
+    "suggested_app_role": "Use as a market analysis worker or strategy research sub-agent.",
+    "url": "https://github.com/Proxemnn/OpenBB-finance-AIPowered-Analysis-Agents",
+    "stars": 25,
+    "created_at": "2026-01-26T20:12:26Z",
+    "pushed_at": "2026-03-08T19:36:41Z",
+    "language": "C#"
+  },
+  {
+    "domain": "Financial & Quantitative Trading",
+    "project_name": "quantcontext-mcp-server",
+    "repo": "zomma-dev/quantcontext-mcp-server",
+    "role": "MCP Tool Agent",
+    "summary": "QuantContext is an MCP server that gives AI agents real quant computation for better trading: stock screening, strategy backtesting, and factor...",
+    "integration_surfaces": [
+      "MCP"
+    ],
+    "suggested_app_role": "Use as a market analysis worker or strategy research sub-agent.",
+    "url": "https://github.com/zomma-dev/quantcontext-mcp-server",
+    "stars": 6,
+    "created_at": "2026-03-06T15:55:18Z",
+    "pushed_at": "2026-03-08T16:40:32Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Personal Assistants & Productivity Tools",
+    "project_name": "cherry-studio",
+    "repo": "CherryHQ/cherry-studio",
+    "role": "Personal Assistant / Workflow Agent",
+    "summary": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+    "integration_surfaces": [
+      "UI"
+    ],
+    "suggested_app_role": "Use as a front-end assistant, personal workspace, or automation entrypoint.",
+    "url": "https://github.com/CherryHQ/cherry-studio",
+    "stars": 41015,
+    "created_at": "2024-05-24T01:56:26Z",
+    "pushed_at": "2026-03-08T11:32:37Z",
+    "language": "TypeScript"
+  },
+  {
+    "domain": "Personal Assistants & Productivity Tools",
+    "project_name": "khoj",
+    "repo": "khoj-ai/khoj",
+    "role": "Personal Assistant / Workflow Agent",
+    "summary": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any...",
+    "integration_surfaces": [
+      "UI"
+    ],
+    "suggested_app_role": "Use as a front-end assistant, personal workspace, or automation entrypoint.",
+    "url": "https://github.com/khoj-ai/khoj",
+    "stars": 33287,
+    "created_at": "2021-08-16T01:48:44Z",
+    "pushed_at": "2026-03-06T06:40:21Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Personal Assistants & Productivity Tools",
+    "project_name": "Personal_AI_Infrastructure",
+    "repo": "danielmiessler/Personal_AI_Infrastructure",
+    "role": "Personal Assistant / Workflow Agent",
+    "summary": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+    "integration_surfaces": [
+      "App"
+    ],
+    "suggested_app_role": "Use as a front-end assistant, personal workspace, or automation entrypoint.",
+    "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+    "stars": 9632,
+    "created_at": "2025-09-08T16:18:30Z",
+    "pushed_at": "2026-03-02T20:51:06Z",
+    "language": "TypeScript"
+  },
+  {
+    "domain": "Personal Assistants & Productivity Tools",
+    "project_name": "deepchat",
+    "repo": "ThinkInAIXYZ/deepchat",
+    "role": "Personal Assistant / Workflow Agent",
+    "summary": "🐬DeepChat - A smart assistant that connects powerful AI to your personal world",
+    "integration_surfaces": [
+      "App"
+    ],
+    "suggested_app_role": "Use as a front-end assistant, personal workspace, or automation entrypoint.",
+    "url": "https://github.com/ThinkInAIXYZ/deepchat",
+    "stars": 5553,
+    "created_at": "2025-02-14T01:56:51Z",
+    "pushed_at": "2026-03-08T13:30:31Z",
+    "language": "TypeScript"
+  },
+  {
+    "domain": "Personal Assistants & Productivity Tools",
+    "project_name": "magic",
+    "repo": "dtyq/magic",
+    "role": "Personal Assistant / Workflow Agent",
+    "summary": "Super Magic. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office...",
+    "integration_surfaces": [
+      "Workflow"
+    ],
+    "suggested_app_role": "Use as a front-end assistant, personal workspace, or automation entrypoint.",
+    "url": "https://github.com/dtyq/magic",
+    "stars": 4478,
+    "created_at": "2025-05-14T22:04:29Z",
+    "pushed_at": "2025-12-02T07:29:27Z",
+    "language": "PHP"
+  },
+  {
+    "domain": "Personal Assistants & Productivity Tools",
+    "project_name": "MIRIX",
+    "repo": "Mirix-AI/MIRIX",
+    "role": "Personal Assistant / Workflow Agent",
+    "summary": "Mirix is a multi-agent personal assistant designed to track on-screen activities and answer user questions intelligently. By capturing real-time...",
+    "integration_surfaces": [
+      "App"
+    ],
+    "suggested_app_role": "Use as a front-end assistant, personal workspace, or automation entrypoint.",
+    "url": "https://github.com/Mirix-AI/MIRIX",
+    "stars": 3514,
+    "created_at": "2025-04-11T12:24:52Z",
+    "pushed_at": "2026-02-27T08:22:19Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Personal Assistants & Productivity Tools",
+    "project_name": "Auto-Deep-Research",
+    "repo": "HKUDS/Auto-Deep-Research",
+    "role": "Personal Assistant / Workflow Agent",
+    "summary": "\"Your Fully-Automated Personal AI Assistant\"",
+    "integration_surfaces": [
+      "App"
+    ],
+    "suggested_app_role": "Use as a front-end assistant, personal workspace, or automation entrypoint.",
+    "url": "https://github.com/HKUDS/Auto-Deep-Research",
+    "stars": 1395,
+    "created_at": "2025-02-16T05:28:50Z",
+    "pushed_at": "2025-10-16T06:38:48Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Personal Assistants & Productivity Tools",
+    "project_name": "browserwing",
+    "repo": "browserwing/browserwing",
+    "role": "MCP Tool Agent",
+    "summary": "BrowserWing turns your browser actions into MCP commands Or Claude Skill, allowing AI agents to control browsers efficiently and reliably. Say...",
+    "integration_surfaces": [
+      "MCP"
+    ],
+    "suggested_app_role": "Use as a front-end assistant, personal workspace, or automation entrypoint.",
+    "url": "https://github.com/browserwing/browserwing",
+    "stars": 1028,
+    "created_at": "2025-12-10T23:54:17Z",
+    "pushed_at": "2026-03-06T02:21:13Z",
+    "language": "TypeScript"
+  },
+  {
+    "domain": "Personal Assistants & Productivity Tools",
+    "project_name": "atom",
+    "repo": "rush86999/atom",
+    "role": "Personal Assistant / Workflow Agent",
+    "summary": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
+    "integration_surfaces": [
+      "Data/RAG"
+    ],
+    "suggested_app_role": "Use as a front-end assistant, personal workspace, or automation entrypoint.",
+    "url": "https://github.com/rush86999/atom",
+    "stars": 715,
+    "created_at": "2023-01-22T15:55:04Z",
+    "pushed_at": "2026-03-08T11:31:36Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Personal Assistants & Productivity Tools",
+    "project_name": "agentsys",
+    "repo": "agent-sh/agentsys",
+    "role": "Personal Assistant / Workflow Agent",
+    "summary": "AI writes code. This automates everything else · 14 plugins · 43 agents · 30 skills · for Claude Code, OpenCode, Codex, cursor, kiro.",
+    "integration_surfaces": [
+      "App"
+    ],
+    "suggested_app_role": "Use as a front-end assistant, personal workspace, or automation entrypoint.",
+    "url": "https://github.com/agent-sh/agentsys",
+    "stars": 544,
+    "created_at": "2026-01-15T09:33:05Z",
+    "pushed_at": "2026-03-06T09:01:49Z",
+    "language": "JavaScript"
+  },
+  {
+    "domain": "Personal Assistants & Productivity Tools",
+    "project_name": "claude-forge",
+    "repo": "sangrokjung/claude-forge",
+    "role": "Personal Assistant / Workflow Agent",
+    "summary": "Supercharge Claude Code with 11 AI agents, 36 commands & 15 skills — the claude-code plugin framework inspired by oh-my-zsh. 6-layer security...",
+    "integration_surfaces": [
+      "SDK/API"
+    ],
+    "suggested_app_role": "Use as a front-end assistant, personal workspace, or automation entrypoint.",
+    "url": "https://github.com/sangrokjung/claude-forge",
+    "stars": 437,
+    "created_at": "2026-02-23T07:46:08Z",
+    "pushed_at": "2026-03-06T04:38:20Z",
+    "language": "Shell"
+  },
+  {
+    "domain": "Personal Assistants & Productivity Tools",
+    "project_name": "BitFun",
+    "repo": "GCWing/BitFun",
+    "role": "Personal Assistant / Workflow Agent",
+    "summary": "BitFun is a next-generation Agent system centered on AI assistants with personality and memory. Each user has a personal assistant that learns...",
+    "integration_surfaces": [
+      "App"
+    ],
+    "suggested_app_role": "Use as a front-end assistant, personal workspace, or automation entrypoint.",
+    "url": "https://github.com/GCWing/BitFun",
+    "stars": 362,
+    "created_at": "2026-02-02T09:52:10Z",
+    "pushed_at": "2026-03-08T13:32:32Z",
+    "language": "TypeScript"
+  },
+  {
+    "domain": "Personal Assistants & Productivity Tools",
+    "project_name": "MindFlow",
+    "repo": "Run-Tu/MindFlow",
+    "role": "Personal Assistant / Workflow Agent",
+    "summary": "A multimodal personal assistant that allows Large Language Models (LLMs) to run code locally, acting as an autonomous agent capable of completing...",
+    "integration_surfaces": [
+      "App"
+    ],
+    "suggested_app_role": "Use as a front-end assistant, personal workspace, or automation entrypoint.",
+    "url": "https://github.com/Run-Tu/MindFlow",
+    "stars": 206,
+    "created_at": "2025-01-20T17:37:09Z",
+    "pushed_at": "2025-01-20T18:02:08Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Personal Assistants & Productivity Tools",
+    "project_name": "local-operator",
+    "repo": "damianvtran/local-operator",
+    "role": "Personal Assistant / Workflow Agent",
+    "summary": "AI agents platform that gives you a workspace with an integrated team of personal assistants that can work behind the scenes to handle daily...",
+    "integration_surfaces": [
+      "UI"
+    ],
+    "suggested_app_role": "Use as a front-end assistant, personal workspace, or automation entrypoint.",
+    "url": "https://github.com/damianvtran/local-operator",
+    "stars": 197,
+    "created_at": "2025-01-25T22:44:02Z",
+    "pushed_at": "2026-02-11T17:28:25Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Personal Assistants & Productivity Tools",
+    "project_name": "OwnPilot",
+    "repo": "ownpilot/OwnPilot",
+    "role": "Personal Assistant / Workflow Agent",
+    "summary": "Privacy-first personal AI assistant platform with autonomous agents, tool orchestration, and multi-provider support.",
+    "integration_surfaces": [
+      "Workflow"
+    ],
+    "suggested_app_role": "Use as a front-end assistant, personal workspace, or automation entrypoint.",
+    "url": "https://github.com/ownpilot/OwnPilot",
+    "stars": 182,
+    "created_at": "2026-01-28T11:04:14Z",
+    "pushed_at": "2026-03-08T15:33:34Z",
+    "language": "TypeScript"
+  },
+  {
+    "domain": "Personal Assistants & Productivity Tools",
+    "project_name": "personal-assistant",
+    "repo": "edonyzpc/personal-assistant",
+    "role": "Personal Assistant / Workflow Agent",
+    "summary": "A plugin that harnesses AI agents and streamlining techniques to help you automatically manage Obsidian.",
+    "integration_surfaces": [
+      "App"
+    ],
+    "suggested_app_role": "Use as a front-end assistant, personal workspace, or automation entrypoint.",
+    "url": "https://github.com/edonyzpc/personal-assistant",
+    "stars": 139,
+    "created_at": "2022-06-17T07:46:25Z",
+    "pushed_at": "2026-03-06T02:11:06Z",
+    "language": "TypeScript"
+  },
+  {
+    "domain": "Astronomy & Space Science",
+    "project_name": "astronomy-rag-corpus",
+    "repo": "radioastronomyio/astronomy-rag-corpus",
+    "role": "Astronomy Research Agent",
+    "summary": "A Federated Knowledge Core for astronomical research — decoupling semantic meaning from structural relationships to enable expert-level RAG and...",
+    "integration_surfaces": [
+      "Data/RAG"
+    ],
+    "suggested_app_role": "Use as an astronomy knowledge plugin or scientific Q&A sub-agent.",
+    "url": "https://github.com/radioastronomyio/astronomy-rag-corpus",
+    "stars": 2,
+    "created_at": "2025-12-29T18:08:16Z",
+    "pushed_at": "2026-01-03T20:47:31Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Astronomy & Space Science",
+    "project_name": "astronomy-rag-agent",
+    "repo": "anushkagarg0905/astronomy-rag-agent",
+    "role": "Astronomy Research Agent",
+    "summary": "An offline astronomy document chat agent that uses LLM, ChromaDB and Ollama to retrieve and answer questions from scientific PDFs such as research...",
+    "integration_surfaces": [
+      "Data/RAG"
+    ],
+    "suggested_app_role": "Use as an astronomy knowledge plugin or scientific Q&A sub-agent.",
+    "url": "https://github.com/anushkagarg0905/astronomy-rag-agent",
+    "stars": 0,
+    "created_at": "2026-01-29T19:41:02Z",
+    "pushed_at": "2026-02-13T15:33:33Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Astronomy & Space Science",
+    "project_name": "space-explorer-agent",
+    "repo": "Farhat787/space-explorer-agent",
+    "role": "Astronomy Research Agent",
+    "summary": "AI agent designed to discover NASA’s astronomy picture of the day and ask space questions",
+    "integration_surfaces": [
+      "App"
+    ],
+    "suggested_app_role": "Use as an astronomy knowledge plugin or scientific Q&A sub-agent.",
+    "url": "https://github.com/Farhat787/space-explorer-agent",
+    "stars": 0,
+    "created_at": "2026-03-07T19:22:36Z",
+    "pushed_at": "2026-03-08T14:26:28Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Astronomy & Space Science",
+    "project_name": "Astronomy-Multi-Agent-Rag-system",
+    "repo": "nipunnirman/Astronomy-Multi-Agent-Rag-system",
+    "role": "Astronomy Research Agent",
+    "summary": "No description provided; kept because the repository is domain-relevant and recently active.",
+    "integration_surfaces": [
+      "Data/RAG"
+    ],
+    "suggested_app_role": "Use as an astronomy knowledge plugin or scientific Q&A sub-agent.",
+    "url": "https://github.com/nipunnirman/Astronomy-Multi-Agent-Rag-system",
+    "stars": 0,
+    "created_at": "2026-03-04T14:00:23Z",
+    "pushed_at": "2026-03-04T14:00:23Z",
+    "language": null
+  },
+  {
+    "domain": "Astronomy & Space Science",
+    "project_name": "astroskills",
+    "repo": "RuancunLi/astroskills",
+    "role": "Astronomy Research Agent",
+    "summary": "agent skills for astronomy and astrophyscis",
+    "integration_surfaces": [
+      "App"
+    ],
+    "suggested_app_role": "Use as an astronomy knowledge plugin or scientific Q&A sub-agent.",
+    "url": "https://github.com/RuancunLi/astroskills",
+    "stars": 0,
+    "created_at": "2026-03-02T16:49:36Z",
+    "pushed_at": "2026-03-08T10:34:01Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Astronomy & Space Science",
+    "project_name": "Multi-Agent-RAG_System-Astronomy",
+    "repo": "Sagar-lab03/Multi-Agent-RAG_System-Astronomy",
+    "role": "Astronomy Research Agent",
+    "summary": "AI-driven astronomy research framework that uses multiple collaborative agents with Retrieval-Augmented Generation (RAG) to gather, analyze, and...",
+    "integration_surfaces": [
+      "SDK/API",
+      "Data/RAG"
+    ],
+    "suggested_app_role": "Use as an astronomy knowledge plugin or scientific Q&A sub-agent.",
+    "url": "https://github.com/Sagar-lab03/Multi-Agent-RAG_System-Astronomy",
+    "stars": 0,
+    "created_at": "2026-02-20T19:15:01Z",
+    "pushed_at": "2026-03-03T18:17:08Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Physics & Simulation",
+    "project_name": "james_library",
+    "repo": "topherchris420/james_library",
+    "role": "Physics Research Agent",
+    "summary": "A local, autonomous acoustic physics, recursive self improvement, multi-agent lab🐙",
+    "integration_surfaces": [
+      "App"
+    ],
+    "suggested_app_role": "Use as a physics-solving, paper-understanding, or simulation-analysis sub-agent.",
+    "url": "https://github.com/topherchris420/james_library",
+    "stars": 10,
+    "created_at": "2026-02-12T13:04:49Z",
+    "pushed_at": "2026-03-08T18:24:36Z",
+    "language": "Rust"
+  },
+  {
+    "domain": "Physics & Simulation",
+    "project_name": "ai-mandel",
+    "repo": "artificial-scientist-lab/ai-mandel",
+    "role": "Physics Research Agent",
+    "summary": "Towards autonomous quantum physics research using LLM agents with access to intelligent tools",
+    "integration_surfaces": [
+      "App"
+    ],
+    "suggested_app_role": "Use as a physics-solving, paper-understanding, or simulation-analysis sub-agent.",
+    "url": "https://github.com/artificial-scientist-lab/ai-mandel",
+    "stars": 9,
+    "created_at": "2025-11-12T15:40:52Z",
+    "pushed_at": "2026-02-23T20:57:38Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Physics & Simulation",
+    "project_name": "QAgent_Morning_Physics",
+    "repo": "CyberPardofelis/QAgent_Morning_Physics",
+    "role": "Physics Research Agent",
+    "summary": "An Agent designed for researchers in quantum physics.",
+    "integration_surfaces": [
+      "App"
+    ],
+    "suggested_app_role": "Use as a physics-solving, paper-understanding, or simulation-analysis sub-agent.",
+    "url": "https://github.com/CyberPardofelis/QAgent_Morning_Physics",
+    "stars": 1,
+    "created_at": "2026-02-26T04:54:39Z",
+    "pushed_at": "2026-03-07T12:49:04Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Physics & Simulation",
+    "project_name": "ralph",
+    "repo": "ahtihelminen/ralph",
+    "role": "Physics Research Agent",
+    "summary": "Agent Team for Physics Research",
+    "integration_surfaces": [
+      "App"
+    ],
+    "suggested_app_role": "Use as a physics-solving, paper-understanding, or simulation-analysis sub-agent.",
+    "url": "https://github.com/ahtihelminen/ralph",
+    "stars": 0,
+    "created_at": "2026-02-24T16:20:02Z",
+    "pushed_at": "2026-03-06T08:15:55Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Physics & Simulation",
+    "project_name": "Hydro-Agent-Inversion",
+    "repo": "FuningMa-QUT/Hydro-Agent-Inversion",
+    "role": "Physics Simulation Agent",
+    "summary": "Hydro-Agent: A physics-integrated LLM multi-agent framework for autonomous groundwater inverse modeling. This repository contains the source code...",
+    "integration_surfaces": [
+      "SDK/API"
+    ],
+    "suggested_app_role": "Use as a physics-solving, paper-understanding, or simulation-analysis sub-agent.",
+    "url": "https://github.com/FuningMa-QUT/Hydro-Agent-Inversion",
+    "stars": 0,
+    "created_at": "2026-03-03T05:24:20Z",
+    "pushed_at": "2026-03-07T08:02:54Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Physics & Simulation",
+    "project_name": "physics-research-agent",
+    "repo": "MeghnaB12/physics-research-agent",
+    "role": "Physics Research Agent",
+    "summary": "A Multi-Modal RAG Agent that reads research papers and solves embedded physics equations using Gemini 2.5 and SymPy",
+    "integration_surfaces": [
+      "Robotics/Edge",
+      "Data/RAG"
+    ],
+    "suggested_app_role": "Use as a physics-solving, paper-understanding, or simulation-analysis sub-agent.",
+    "url": "https://github.com/MeghnaB12/physics-research-agent",
+    "stars": 0,
+    "created_at": "2026-01-24T12:56:05Z",
+    "pushed_at": "2026-03-07T13:12:13Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Industrial Manufacturing & Robotics",
+    "project_name": "sample-agentic-ai-robot",
+    "repo": "aws-samples/sample-agentic-ai-robot",
+    "role": "Robotics / Device Control Agent",
+    "summary": "Agentic AI Robot: Industrial Safety Monitoring and Control",
+    "integration_surfaces": [
+      "Robotics/Edge"
+    ],
+    "suggested_app_role": "Use as an industrial monitoring, digital twin, or device control subsystem.",
+    "url": "https://github.com/aws-samples/sample-agentic-ai-robot",
+    "stars": 15,
+    "created_at": "2025-10-21T06:24:33Z",
+    "pushed_at": "2026-02-12T19:01:07Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Industrial Manufacturing & Robotics",
+    "project_name": "SMIA",
+    "repo": "ekhurtado/SMIA",
+    "role": "Industrial Decision Agent",
+    "summary": "This repository contains the ongoing development of a project that aims to achieve a Self-configurable Manufacturing Industrial Agent (SMIA)...",
+    "integration_surfaces": [
+      "App"
+    ],
+    "suggested_app_role": "Use as an industrial monitoring, digital twin, or device control subsystem.",
+    "url": "https://github.com/ekhurtado/SMIA",
+    "stars": 3,
+    "created_at": "2024-04-29T14:06:22Z",
+    "pushed_at": "2026-03-03T18:20:06Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Industrial Manufacturing & Robotics",
+    "project_name": "Local-LLM-for-Robots",
+    "repo": "JossueE/Local-LLM-for-Robots",
+    "role": "Robotics / Device Control Agent",
+    "summary": "Local LLM for Robots is an intelligent agent that integrates a local Large Language Model (e.g., LLaMA.cpp) with tool-calling to control and query...",
+    "integration_surfaces": [
+      "App"
+    ],
+    "suggested_app_role": "Use as an industrial monitoring, digital twin, or device control subsystem.",
+    "url": "https://github.com/JossueE/Local-LLM-for-Robots",
+    "stars": 2,
+    "created_at": "2025-09-09T18:22:30Z",
+    "pushed_at": "2025-11-19T23:12:35Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Industrial Manufacturing & Robotics",
+    "project_name": "slm-rl-industrial-lab",
+    "repo": "gabriel-lab-ia/slm-rl-industrial-lab",
+    "role": "Robotics / Device Control Agent",
+    "summary": "ROS2 + MuJoCo industrial simulation with a real MathCore RL agent. Integration of robotics control, kinematics validation (mathlab), geometric IK...",
+    "integration_surfaces": [
+      "Robotics/Edge"
+    ],
+    "suggested_app_role": "Use as an industrial monitoring, digital twin, or device control subsystem.",
+    "url": "https://github.com/gabriel-lab-ia/slm-rl-industrial-lab",
+    "stars": 1,
+    "created_at": "2026-02-25T13:57:24Z",
+    "pushed_at": "2026-02-25T14:36:53Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Industrial Manufacturing & Robotics",
+    "project_name": "Agentic-ai-rfp-automation",
+    "repo": "ASH-LABS-02/Agentic-ai-rfp-automation",
+    "role": "Industrial Decision Agent",
+    "summary": "Agentic AI system for automating B2B RFP responses in industrial manufacturing. The platform scans tender websites and emails, parses RFPs,...",
+    "integration_surfaces": [
+      "Workflow"
+    ],
+    "suggested_app_role": "Use as an industrial monitoring, digital twin, or device control subsystem.",
+    "url": "https://github.com/ASH-LABS-02/Agentic-ai-rfp-automation",
+    "stars": 0,
+    "created_at": "2025-12-17T14:49:35Z",
+    "pushed_at": "2025-12-17T15:03:11Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Industrial Manufacturing & Robotics",
+    "project_name": "Autonomous-Manufacturing-Intelligence-Platform",
+    "repo": "burzin25/Autonomous-Manufacturing-Intelligence-Platform",
+    "role": "Industrial Decision Agent",
+    "summary": "An agentic analysis system that answers operational performance questions over a single industrial energy dataset",
+    "integration_surfaces": [
+      "App"
+    ],
+    "suggested_app_role": "Use as an industrial monitoring, digital twin, or device control subsystem.",
+    "url": "https://github.com/burzin25/Autonomous-Manufacturing-Intelligence-Platform",
+    "stars": 0,
+    "created_at": "2026-02-22T04:49:46Z",
+    "pushed_at": "2026-02-23T01:09:25Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Industrial Manufacturing & Robotics",
+    "project_name": "MARL-routing",
+    "repo": "giocallegaro/MARL-routing",
+    "role": "Industrial Decision Agent",
+    "summary": "General Multi Agent Reinforcement Learning Algorithm for routing in customizable industrial applications. Coded in Python and paired with a...",
+    "integration_surfaces": [
+      "SDK/API"
+    ],
+    "suggested_app_role": "Use as an industrial monitoring, digital twin, or device control subsystem.",
+    "url": "https://github.com/giocallegaro/MARL-routing",
+    "stars": 0,
+    "created_at": "2025-11-06T22:28:11Z",
+    "pushed_at": "2025-12-05T10:41:47Z",
+    "language": "Jupyter Notebook"
+  },
+  {
+    "domain": "Industrial Manufacturing & Robotics",
+    "project_name": "agentic-digital-warehouse",
+    "repo": "Hanan-Nahas/agentic-digital-warehouse",
+    "role": "Industrial Decision Agent",
+    "summary": "Agentic AI system for industrial spare-parts intelligence — combining RAG, multi-agent workflows, and digital manufacturing orchestration to...",
+    "integration_surfaces": [
+      "Workflow",
+      "Data/RAG"
+    ],
+    "suggested_app_role": "Use as an industrial monitoring, digital twin, or device control subsystem.",
+    "url": "https://github.com/Hanan-Nahas/agentic-digital-warehouse",
+    "stars": 0,
+    "created_at": "2026-03-05T09:47:50Z",
+    "pushed_at": "2026-03-05T13:21:44Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Industrial Manufacturing & Robotics",
+    "project_name": "industrial-agentic-ai",
+    "repo": "Hanan-Nahas/industrial-agentic-ai",
+    "role": "Industrial Decision Agent",
+    "summary": "AI-powered digital spare parts copilot that transforms industrial maintenance signals into intelligent sourcing or local manufacturing decisions...",
+    "integration_surfaces": [
+      "App"
+    ],
+    "suggested_app_role": "Use as an industrial monitoring, digital twin, or device control subsystem.",
+    "url": "https://github.com/Hanan-Nahas/industrial-agentic-ai",
+    "stars": 0,
+    "created_at": "2026-03-05T21:06:13Z",
+    "pushed_at": "2026-03-05T21:48:20Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Industrial Manufacturing & Robotics",
+    "project_name": "TWINFORGE-X-manufacturing-emergencies",
+    "repo": "nourmaatouk/TWINFORGE-X-manufacturing-emergencies",
+    "role": "Digital Twin / Simulation Agent",
+    "summary": "TWINFORGE-X is an AI-powered industrial digital twin and risk intelligence platform that uses multi-agent coordination and Machine Learning to...",
+    "integration_surfaces": [
+      "App"
+    ],
+    "suggested_app_role": "Use as an industrial monitoring, digital twin, or device control subsystem.",
+    "url": "https://github.com/nourmaatouk/TWINFORGE-X-manufacturing-emergencies",
+    "stars": 0,
+    "created_at": "2026-02-28T02:56:02Z",
+    "pushed_at": "2026-02-28T03:00:35Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Industrial Manufacturing & Robotics",
+    "project_name": "Autonomous-Fault-Reasoning-Recovery-System-for-Industrial-Robots",
+    "repo": "siddhipatil300/Autonomous-Fault-Reasoning-Recovery-System-for-Industrial-Robots",
+    "role": "Robotics / Device Control Agent",
+    "summary": "Built a multi-agent smart manufacturing prototype using Webots and MQTT for real-time robot monitoring and control. Integrated LLaMA-3 with...",
+    "integration_surfaces": [
+      "Robotics/Edge"
+    ],
+    "suggested_app_role": "Use as an industrial monitoring, digital twin, or device control subsystem.",
+    "url": "https://github.com/siddhipatil300/Autonomous-Fault-Reasoning-Recovery-System-for-Industrial-Robots",
+    "stars": 0,
+    "created_at": "2026-02-05T07:39:24Z",
+    "pushed_at": "2026-02-05T07:42:47Z",
+    "language": "Python"
+  },
+  {
+    "domain": "Industrial Manufacturing & Robotics",
+    "project_name": "multiagent-digital-twin-langgraph-mcp-a2a",
+    "repo": "xupeiwust/multiagent-digital-twin-langgraph-mcp-a2a",
+    "role": "MCP Tool Agent",
+    "summary": "A modular, cloud-native platform for industrial digital twins, powered by multi-agent orchestration, LangGraph workflows, Model Context Protocol...",
+    "integration_surfaces": [
+      "MCP",
+      "Workflow"
+    ],
+    "suggested_app_role": "Use as an industrial monitoring, digital twin, or device control subsystem.",
+    "url": "https://github.com/xupeiwust/multiagent-digital-twin-langgraph-mcp-a2a",
+    "stars": 0,
+    "created_at": "2025-06-30T22:11:07Z",
+    "pushed_at": "2025-06-24T22:22:53Z",
+    "language": null
+  }
+]
