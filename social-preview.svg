@@ -1,0 +1,30 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#07111F"/>
+  <rect width="1200" height="630" fill="url(#paint0_radial)" fill-opacity="0.9"/>
+  <rect x="42" y="42" width="1116" height="546" rx="32" fill="#091828" stroke="#2EE6FF" stroke-opacity="0.25"/>
+  <path d="M84 140H1116" stroke="#2EE6FF" stroke-opacity="0.15"/>
+  <path d="M84 220H1116" stroke="#2EE6FF" stroke-opacity="0.09"/>
+  <path d="M84 300H1116" stroke="#2EE6FF" stroke-opacity="0.09"/>
+  <path d="M84 380H1116" stroke="#2EE6FF" stroke-opacity="0.09"/>
+  <path d="M84 460H1116" stroke="#2EE6FF" stroke-opacity="0.09"/>
+  <path d="M240 84V546" stroke="#2EE6FF" stroke-opacity="0.07"/>
+  <path d="M520 84V546" stroke="#2EE6FF" stroke-opacity="0.07"/>
+  <path d="M800 84V546" stroke="#2EE6FF" stroke-opacity="0.07"/>
+  <circle cx="170" cy="122" r="7" fill="#35D9B8"/>
+  <circle cx="196" cy="122" r="7" fill="#72F0FF"/>
+  <circle cx="222" cy="122" r="7" fill="#FFC96A"/>
+  <text x="84" y="190" fill="#72F0FF" font-size="20" font-family="Arial, Helvetica, sans-serif" letter-spacing="5">OPEN-SOURCE AGENT ECOSYSTEM MAP</text>
+  <text x="84" y="290" fill="#ECF7FF" font-size="72" font-weight="700" font-family="Arial, Helvetica, sans-serif">Anything Can Be</text>
+  <text x="84" y="372" fill="#ECF7FF" font-size="72" font-weight="700" font-family="Arial, Helvetica, sans-serif">an Agent</text>
+  <text x="84" y="442" fill="#94AECA" font-size="30" font-family="Arial, Helvetica, sans-serif">128 curated repositories across 9 domains, with architecture guidance</text>
+  <text x="84" y="486" fill="#94AECA" font-size="30" font-family="Arial, Helvetica, sans-serif">and an interactive explorer built for GitHub Pages.</text>
+  <rect x="84" y="522" width="236" height="44" rx="22" fill="#72F0FF"/>
+  <text x="112" y="551" fill="#061018" font-size="22" font-weight="700" font-family="Arial, Helvetica, sans-serif">soulnature.github.io</text>
+  <defs>
+    <radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1030 80) rotate(144.629) scale(1019.31 944.844)">
+      <stop stop-color="#35D9B8" stop-opacity="0.18"/>
+      <stop offset="0.38" stop-color="#72F0FF" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#07111F" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>
