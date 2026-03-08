@@ -12,12 +12,10 @@ An integration-first map of the modern AI agent ecosystem, designed to go beyond
 
 This repository now also includes a GitHub Pages friendly website entrypoint at `index.html`.
 
-- futuristic English interface for browsing the catalog
 - interactive search, sort, and domain filtering
 - project detail panel with role, integration surface, recency, and app-fit context
 - architecture snapshot for the Hybrid Agent Workspace
-
-If GitHub Pages is enabled for the repository root, visitors can browse the project as a website instead of reading raw markdown first.
+URL：https://soulnature.github.io/Anything-can-be-an-agent/
 
 This repository answers three practical questions:
 
@@ -25,9 +23,6 @@ This repository answers three practical questions:
 2. How do those projects fit into a coherent product architecture?
 3. What should a real multi-agent application built from this ecosystem actually look like?
 
-Instead of stopping at a repo list, this project turns ecosystem research into an application blueprint.
-
-> I mapped **128** recent open-source AI agent repositories across **9 domains**, organized them into an integration-ready registry, and turned that research into a concrete product architecture.
 
 ## Table of Contents
 
