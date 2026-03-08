@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>About | Anything Can Be an Agent</title>
+    <meta
+      name="description"
+      content="About the Anything Can Be an Agent project: why it exists, what it covers, and how to use the catalog, registry, and architecture documents."
+    />
+    <meta name="keywords" content="AI agent ecosystem, agent catalog, agent architecture, open-source AI agents" />
+    <meta name="author" content="Soulnature" />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://soulnature.github.io/Anything-can-be-an-agent/about.html" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Anything Can Be an Agent" />
+    <meta property="og:title" content="About | Anything Can Be an Agent" />
+    <meta
+      property="og:description"
+      content="Understand the goals, dataset, architecture direction, and usage model behind the Anything Can Be an Agent project."
+    />
+    <meta property="og:url" content="https://soulnature.github.io/Anything-can-be-an-agent/about.html" />
+    <meta property="og:image" content="https://soulnature.github.io/Anything-can-be-an-agent/social-preview.svg" />
+    <meta property="og:image:alt" content="Anything Can Be an Agent website preview" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="About | Anything Can Be an Agent" />
+    <meta
+      name="twitter:description"
+      content="An integration-first map of the modern AI agent ecosystem with a registry, blueprint, and product architecture."
+    />
+    <meta name="twitter:image" content="https://soulnature.github.io/Anything-can-be-an-agent/social-preview.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Sans:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="page-shell doc-shell">
+      <nav class="topbar">
+        <a class="brand" href="index.html">Anything Can Be an Agent</a>
+        <div class="topbar-links">
+          <a href="index.html#explorer">Explorer</a>
+          <a href="index.html#architecture">Architecture</a>
+          <a href="about.html" class="active-link">About</a>
+          <a href="references.html">References</a>
+          <a href="README.md">README.md</a>
+        </div>
+      </nav>
+
+      <header class="doc-hero">
+        <p class="eyebrow">About the Project</p>
+        <h1>From ecosystem mapping to a buildable agent product direction.</h1>
+        <p class="hero-text">
+          Anything Can Be an Agent is an integration-first research project that treats the open-source agent landscape as a system design problem, not just a discovery exercise.
+        </p>
+      </header>
+
+      <main class="doc-layout">
+        <section class="doc-main panel-block">
+          <section class="content-block">
+            <p class="eyebrow">Why This Exists</p>
+            <h2>The gap between lists and architectures is still real.</h2>
+            <p>
+              The open-source agent space moves quickly, but most public resources split into two incomplete camps: long lists with weak systems thinking, or architecture essays with weak grounding in the actual ecosystem.
+            </p>
+            <p>
+              This project connects both sides. It catalogs what exists, classifies the parts by role, and then pushes that research toward one concrete application model.
+            </p>
+          </section>
+
+          <section class="content-block two-col-grid">
+            <article class="mini-panel">
+              <p class="eyebrow">Core Question 01</p>
+              <h3>Which projects matter?</h3>
+              <p>Find recent open-source AI agent repositories worth tracking across multiple technical and domain segments.</p>
+            </article>
+            <article class="mini-panel">
+              <p class="eyebrow">Core Question 02</p>
+              <h3>How do they fit together?</h3>
+              <p>Map projects into orchestration, tools, workers, memory, and domain-specialist roles.</p>
+            </article>
+            <article class="mini-panel">
+              <p class="eyebrow">Core Question 03</p>
+              <h3>What should be built?</h3>
+              <p>Translate the catalog into a layered architecture and a specific target application.</p>
+            </article>
+          </section>
+
+          <section class="content-block">
+            <p class="eyebrow">What Is Included</p>
+            <h2>A catalog, a registry, a blueprint, and one product model.</h2>
+            <div class="data-grid compact-grid">
+              <article class="data-card">
+                <strong>128</strong>
+                <span>Curated open-source AI agent repositories</span>
+              </article>
+              <article class="data-card">
+                <strong>9</strong>
+                <span>Core domains across science, engineering, finance, and robotics</span>
+              </article>
+              <article class="data-card">
+                <strong>1</strong>
+                <span>Machine-readable registry for search, tooling, and app generation</span>
+              </article>
+              <article class="data-card">
+                <strong>1</strong>
+                <span>Layered integration blueprint and one concrete app architecture</span>
+              </article>
+            </div>
+          </section>
+
+          <section class="content-block">
+            <p class="eyebrow">What Makes It Different</p>
+            <h2>Not another awesome-list replacement.</h2>
+            <ul class="feature-list">
+              <li>Projects are organized by domain and role, not only by name.</li>
+              <li>Each record includes integration surfaces and a suggested app role.</li>
+              <li>The catalog is backed by a reusable JSON registry rather than only prose.</li>
+              <li>The repository moves from discovery into architecture and product direction.</li>
+            </ul>
+          </section>
+
+          <section class="content-block">
+            <p class="eyebrow">Concrete Product Direction</p>
+            <h2>The target application is a Hybrid Agent Workspace.</h2>
+            <p>
+              The architecture direction is a supervisor-centered, multi-agent workspace with a shared UI, orchestration core, research worker, coding worker, tool execution layer, memory and retrieval layer, and optional domain packs.
+            </p>
+            <div class="architecture-strip">
+              <span>Supervisor</span>
+              <span>Planner / Router</span>
+              <span>Research Worker</span>
+              <span>Coding Worker</span>
+              <span>Tools + MCP</span>
+              <span>Memory + Retrieval</span>
+              <span>Domain Packs</span>
+            </div>
+          </section>
+
+          <section class="content-block">
+            <p class="eyebrow">How to Use It</p>
+            <h2>Choose the artifact based on the job.</h2>
+            <div class="resource-list">
+              <a class="resource-row" href="results.md">
+                <strong>results.md</strong>
+                <span>Browse the human-readable catalog.</span>
+              </a>
+              <a class="resource-row" href="results.json">
+                <strong>results.json</strong>
+                <span>Use the structured registry for filtering, tooling, and downstream apps.</span>
+              </a>
+              <a class="resource-row" href="integration_blueprint.md">
+                <strong>integration_blueprint.md</strong>
+                <span>Understand the layered integration model.</span>
+              </a>
+              <a class="resource-row" href="specific_app_architecture.md">
+                <strong>specific_app_architecture.md</strong>
+                <span>Read the concrete product architecture.</span>
+              </a>
+              <a class="resource-row" href="references.html">
+                <strong>references.html</strong>
+                <span>Compare this project against adjacent ecosystem maps and reference catalogs.</span>
+              </a>
+            </div>
+          </section>
+        </section>
+
+        <aside class="doc-side panel-block">
+          <section class="side-block">
+            <p class="eyebrow">Audience</p>
+            <ul class="side-list">
+              <li>Founders evaluating what kind of agent product to build</li>
+              <li>Engineers choosing orchestration and worker layers</li>
+              <li>Researchers tracking fast-moving agent infrastructure</li>
+              <li>Teams assembling one product from multiple open-source projects</li>
+            </ul>
+          </section>
+          <section class="side-block">
+            <p class="eyebrow">Reading Path</p>
+            <ol class="side-list ordered">
+              <li>Start with the homepage explorer.</li>
+              <li>Read this page for project framing.</li>
+              <li>Open the references page for ecosystem comparison.</li>
+              <li>Read the blueprint and specific architecture docs.</li>
+            </ol>
+          </section>
+          <section class="side-block">
+            <p class="eyebrow">Positioning</p>
+            <p>
+              Directories help people browse. Awesome-lists help people discover. Pattern catalogs help people design. This project tries to connect all three and push them toward one buildable application architecture.
+            </p>
+          </section>
+        </aside>
+      </main>
+    </div>
+  </body>
+</html>

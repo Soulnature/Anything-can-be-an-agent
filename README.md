@@ -15,7 +15,11 @@ This repository now also includes a GitHub Pages friendly website entrypoint at 
 - interactive search, sort, and domain filtering
 - project detail panel with role, integration surface, recency, and app-fit context
 - architecture snapshot for the Hybrid Agent Workspace
-URL：https://soulnature.github.io/Anything-can-be-an-agent/
+- dedicated web pages for project overview and related references
+
+If GitHub Pages is enabled for the repository root, visitors can browse the project as a website instead of reading raw markdown first.
+
+URL: https://soulnature.github.io/Anything-can-be-an-agent/
 
 This repository answers three practical questions:
 
