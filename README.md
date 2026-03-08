@@ -4,6 +4,7 @@
 ![Domains](https://img.shields.io/badge/domains-9-green)
 ![Blueprint](https://img.shields.io/badge/architecture-included-black)
 ![Registry](https://img.shields.io/badge/data-results.json-orange)
+![References](https://img.shields.io/badge/references-related_projects.md-teal)
 
 An integration-first map of the modern AI agent ecosystem, designed to go beyond discovery and all the way to system design.
 
@@ -35,6 +36,7 @@ Instead of stopping at a repo list, this project turns ecosystem research into a
 - [Featured Insights](#featured-insights)
 - [Featured Projects](#featured-projects)
 - [What Makes This Different](#what-makes-this-different)
+- [Related Projects and References](#related-projects-and-references)
 - [The Concrete Product Direction](#the-concrete-product-direction)
 - [Repository Structure](#repository-structure)
 - [Suggested Reading Path](#suggested-reading-path)
@@ -106,6 +108,30 @@ These are the main takeaways from the catalog and architecture work.
 - The strongest reusable layer is not a domain-specific agent. It is the orchestration and tool-control layer.
 - Domain-specific packs are best treated as mounted capabilities, not as the application foundation.
 - `results.json` is one of the most reusable artifacts in this repository because it turns ecosystem research into buildable data.
+
+## Related Projects and References
+
+This repository sits alongside several adjacent projects in the broader agent ecosystem mapping space.
+
+These references matter because they help readers compare approaches across:
+
+- directory-style browsing
+- awesome-list style discovery
+- ecosystem landscape mapping
+- agentic design pattern curation
+
+Start here for the full comparison document:
+
+- [related_projects.md](/Users/xingzhong/Documents/Anything-can-be-an-agent/related_projects.md)
+
+Representative references:
+
+- [DeepYard](https://deepyard.dev/)
+- [Deep-Insight-Labs/awesome-ai-agents](https://github.com/Deep-Insight-Labs/awesome-ai-agents)
+- [korchasa/awesome-ai-agents](https://github.com/korchasa/awesome-ai-agents)
+- [danielrosehill/Awesome-AI-Agents-And-Assistants](https://github.com/danielrosehill/Awesome-AI-Agents-And-Assistants)
+- [nibzard/awesome-agentic-patterns](https://github.com/nibzard/awesome-agentic-patterns)
+- [joylarkin/AI-Coding-Landscape](https://github.com/joylarkin/AI-Coding-Landscape)
 
 ## Featured Projects
 
