@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Anything Can Be an Agent</title>
+    <meta
+      name="description"
+      content="A future-facing explorer for 128 open-source AI agent projects across 9 domains, with architecture guidance and integration-ready metadata."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Sans:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="hero">
+        <nav class="topbar">
+          <a class="brand" href="#top">Anything Can Be an Agent</a>
+          <div class="topbar-links">
+            <a href="#explorer">Explorer</a>
+            <a href="#architecture">Architecture</a>
+            <a href="#domains">Domains</a>
+            <a href="README.md">README</a>
+          </div>
+        </nav>
+
+        <div class="hero-grid" id="top">
+          <section class="hero-copy">
+            <p class="eyebrow">Open-Source Agent Ecosystem Map</p>
+            <h1>Browse the agent landscape like a product system, not a repo dump.</h1>
+            <p class="hero-text">
+              This project curates recent AI agent repositories, organizes them into domain packs,
+              and turns the research into a usable architecture for a hybrid agent workspace.
+            </p>
+            <div class="hero-actions">
+              <a class="button primary" href="#explorer">Open Explorer</a>
+              <a class="button secondary" href="#architecture">See Architecture</a>
+            </div>
+            <ul class="hero-metrics" id="hero-metrics">
+              <li>
+                <span class="metric-value" id="metric-projects">128</span>
+                <span class="metric-label">Agent Repositories</span>
+              </li>
+              <li>
+                <span class="metric-value" id="metric-domains">9</span>
+                <span class="metric-label">Core Domains</span>
+              </li>
+              <li>
+                <span class="metric-value" id="metric-meta">1</span>
+                <span class="metric-label">Meta Collection</span>
+              </li>
+            </ul>
+          </section>
+
+          <aside class="hero-panel">
+            <p class="panel-label">Why this repository matters</p>
+            <ul class="signal-list">
+              <li>Structured registry with integration surfaces and suggested app roles</li>
+              <li>Clear separation between execution systems and ecosystem meta resources</li>
+              <li>Concrete architecture path from catalog to deployable product</li>
+            </ul>
+            <div class="signal-card">
+              <span class="signal-kicker">Core idea</span>
+              <strong>Anything can become an agent if it can be assigned a role, tool access, context, and orchestration.</strong>
+            </div>
+          </aside>
+        </div>
+      </header>
+
+      <main>
+        <section class="snapshot" id="domains">
+          <div class="section-heading">
+            <p class="eyebrow">Project Snapshot</p>
+            <h2>Coverage across engineering, science, finance, and robotics.</h2>
+          </div>
+          <div class="snapshot-grid" id="domain-summary"></div>
+        </section>
+
+        <section class="architecture" id="architecture">
+          <div class="section-heading">
+            <p class="eyebrow">Application Direction</p>
+            <h2>A concrete target: the Hybrid Agent Workspace.</h2>
+          </div>
+          <div class="architecture-grid">
+            <article class="architecture-card accent">
+              <span class="stack-label">Control Plane</span>
+              <h3>Supervisor Agent</h3>
+              <p>Central routing, task decomposition, safety checks, and execution oversight.</p>
+            </article>
+            <article class="architecture-card">
+              <span class="stack-label">Worker Layer</span>
+              <h3>Research + Coding Specialists</h3>
+              <p>Dedicated workers for synthesis, implementation, tool execution, and domain-specific tasks.</p>
+            </article>
+            <article class="architecture-card">
+              <span class="stack-label">Capability Layer</span>
+              <h3>Tool Connectors and MCP</h3>
+              <p>Execution surfaces for browsers, code sandboxes, APIs, retrieval systems, and industrial interfaces.</p>
+            </article>
+            <article class="architecture-card">
+              <span class="stack-label">Knowledge Layer</span>
+              <h3>Memory and Retrieval</h3>
+              <p>Shared context, domain packs, structured references, and reusable workflow memory.</p>
+            </article>
+          </div>
+          <div class="architecture-links">
+            <a href="integration_blueprint.md">Open integration blueprint</a>
+            <a href="specific_app_architecture.md">Open specific app architecture</a>
+            <a href="results.md">Open full catalog document</a>
+          </div>
+        </section>
+
+        <section class="explorer" id="explorer">
+          <div class="section-heading split">
+            <div>
+              <p class="eyebrow">Interactive Explorer</p>
+              <h2>Search, filter, and inspect the ecosystem.</h2>
+            </div>
+            <div class="explorer-stats">
+              <div>
+                <span id="visible-count">0</span>
+                <small>visible projects</small>
+              </div>
+              <div>
+                <span id="selected-domain-count">0</span>
+                <small>active domains</small>
+              </div>
+            </div>
+          </div>
+
+          <div class="controls-panel">
+            <label class="search-box">
+              <span>Search projects, roles, domains, or integration surfaces</span>
+              <input id="search-input" type="search" placeholder="Try: coding agent, MCP, robotics, biomedical..." />
+            </label>
+            <div class="control-row">
+              <label>
+                <span>Sort by</span>
+                <select id="sort-select">
+                  <option value="stars">Stars</option>
+                  <option value="recent">Recent activity</option>
+                  <option value="name">Project name</option>
+                </select>
+              </label>
+              <label>
+                <span>View</span>
+                <select id="view-select">
+                  <option value="grid">Card grid</option>
+                  <option value="compact">Compact list</option>
+                </select>
+              </label>
+            </div>
+            <div class="filter-group">
+              <p>Filter by domain</p>
+              <div id="domain-filters" class="filter-pills"></div>
+            </div>
+            <div class="filter-group">
+              <p>Quick filters</p>
+              <div id="surface-filters" class="filter-pills"></div>
+            </div>
+          </div>
+
+          <div class="explorer-layout">
+            <section class="results-panel">
+              <div class="results-toolbar">
+                <button id="clear-filters" class="text-button" type="button">Clear filters</button>
+                <p id="results-hint">Loading projects...</p>
+              </div>
+              <div id="project-list" class="project-list grid"></div>
+            </section>
+            <aside class="detail-panel" id="detail-panel">
+              <p class="detail-kicker">Project Detail</p>
+              <h3 id="detail-title">Select a project</h3>
+              <p id="detail-summary">Pick any card to inspect its role, integration surfaces, recency, and how it fits into an application stack.</p>
+              <dl class="detail-meta">
+                <div>
+                  <dt>Domain</dt>
+                  <dd id="detail-domain">-</dd>
+                </div>
+                <div>
+                  <dt>Role</dt>
+                  <dd id="detail-role">-</dd>
+                </div>
+                <div>
+                  <dt>Integration</dt>
+                  <dd id="detail-surfaces">-</dd>
+                </div>
+                <div>
+                  <dt>Language</dt>
+                  <dd id="detail-language">-</dd>
+                </div>
+                <div>
+                  <dt>Recent activity</dt>
+                  <dd id="detail-updated">-</dd>
+                </div>
+                <div>
+                  <dt>Stars</dt>
+                  <dd id="detail-stars">-</dd>
+                </div>
+              </dl>
+              <div class="detail-block">
+                <p class="detail-label">Suggested app role</p>
+                <p id="detail-app-role">-</p>
+              </div>
+              <div class="detail-actions">
+                <a id="detail-link" class="button primary disabled" href="#" target="_blank" rel="noreferrer">Open GitHub Repository</a>
+              </div>
+            </aside>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <template id="project-card-template">
+      <article class="project-card">
+        <div class="project-card-top">
+          <p class="project-domain"></p>
+          <p class="project-stars"></p>
+        </div>
+        <h3 class="project-title"></h3>
+        <p class="project-role"></p>
+        <p class="project-summary"></p>
+        <div class="project-surfaces"></div>
+      </article>
+    </template>
+
+    <script src="app.js"></script>
+  </body>
+</html>

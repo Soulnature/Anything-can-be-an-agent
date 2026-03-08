@@ -7,6 +7,17 @@
 
 An integration-first map of the modern AI agent ecosystem, designed to go beyond discovery and all the way to system design.
 
+## Live Website Experience
+
+This repository now also includes a GitHub Pages friendly website entrypoint at `index.html`.
+
+- futuristic English interface for browsing the catalog
+- interactive search, sort, and domain filtering
+- project detail panel with role, integration surface, recency, and app-fit context
+- architecture snapshot for the Hybrid Agent Workspace
+
+If GitHub Pages is enabled for the repository root, visitors can browse the project as a website instead of reading raw markdown first.
+
 This repository answers three practical questions:
 
 1. Which open-source AI agent projects are worth paying attention to right now?
